@@ -1399,3 +1399,1367 @@ B) Kompyuterlarning o‘zaro bog‘langan global tarmog‘i
 C) Faqat mahalliy tarmoq
 D) Telefon tarmog'i
 javob: B
+
+Subject: dasturlash-tillari-bazasi
+
+1) LabVIEW da yuzadagi panel nima?
+A. virtual uskunaning interfaol foydalanadigan interfeysi deb aytiladi
+B. grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi
+C. foydalanuvchi kiritadigan ma'lumotlar
+D. foydalanuvchiga chiqariladigadigan ma'lumotlar
+To‘g‘ri javob: A
+
+2) LabVIEW da diagrammalar-bloki nima?
+A. foydalanuvchi kiritadigan ma'lumotlar
+B. LabVIEW grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi
+C. virtual uskunaning interfaol foydalanadigan interfeysi
+D. foydalanuvchiga chiqariladigadigan ma'lumotlar
+To‘g‘ri javob: B
+
+3) LabVIEW da "boshqarish elementi" nima?
+A. grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi
+B. foydalanuvchi tomonidan kiritadigan ma'lumotlar to'plami
+C. virtual uskunaning interfaol foydalanadigan interfeysi
+D. foydalanuvchiga chiqariladigadigan ma'lumotlar
+To‘g‘ri javob: B
+
+4) LabVIEW da "indikator" nima?
+A. foydalanuvchiga yoki ekranga chiqariladigadigan ma'lumotlar
+B. foydalanuvchi kiritadigan ma'lumotlar
+C. grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi
+D. virtual uskunaning interfaol foydalanadigan interfeysi
+To‘g‘ri javob: A
+
+5) Odatda diagrammalar-bloki nimalardan iborat bo'ladi?
+A. yuzadagi panel, indikatorlar
+B. boshqarish elementlari, indikatorlar
+C. terminallar, bog'lamlar, o'tkazgichlar
+D. indikatorlar, terminallar
+To‘g‘ri javob: C
+
+6) LabVIEW da diagrammalar-blokida bir xil tipdagi boshqarish elementlari va indikatorlar nimasi bilan farqlanadi?
+A. Terminallar shakli bilan
+B. Terminallar ramkasi rangi bilan
+C. Terminallar ramkasi yog'on yoki mayinligi bilan
+D. Terminallardagi yozuv bilan
+To‘g‘ri javob: C
+
+7) LabVIEW da ma'lumotlar bog'lami nima?
+A. virtual uskunaning interfaol foydalanadigan interfeysi
+B. bu dasturning ixtiyoriy bajariluvchi elementining umumiy nomi
+C. foydalanuvchi kiritadigan ma'lumotlar
+D. foydalanuvchiga chiqariladigadigan ma'lumotlar
+To‘g‘ri javob: B
+
+8) LabVIEW da virtual uskunadagi diagrammalar blokida "Qo'shish" funktsiyasi joylashgan. Bu diagramma blokida qanday tipdagi ob'yekt turiga kiradi?
+A. Terminallar
+B. O'tkazgichlar
+C. Bog'lam
+D. O'zgaruvchilar
+To‘g‘ri javob: C
+
+9) LabVIEW dasturini bajarilishini boshqarish tamoyili nima?
+A. Funktsiya
+B. O'tkazgichlar
+C. Ma'lumotlar oqimi
+D. Bog'lamlar
+To‘g‘ri javob: C
+
+10) LabVIEW da VIU (virtual ichki uskuna) nima?
+A. foydalanuvchi kiritadigan ma'lumotlar
+B. grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi
+C. bu VU (virtual uskuna) bo'lib, uni siz boshqa VU dan chaqirasiz
+D. virtual uskunaning interfaol foydalanadigan interfeysi
+To‘g‘ri javob: C
+
+11) LabVIEW da "Belgi (Label)" nima?
+A. grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi
+B. yuzadagi panel va diagrammalar blokidagi komponentlarni nomlovchi matn bloki
+C. bu VU (virtual uskuna) bo'lib, uni siz boshqa VU dan chaqirasiz
+D. virtual uskunaning interfaol foydalanadigan interfeysi
+To‘g'ri javob: B
+
+12) LabVIEW da necha xil belgi turi mavjud?
+A. 4
+B. 3
+C. 5
+D. 6
+To'g'ri javob: B
+
+13) LabVIEW da belgilarning birinchi turi qanday nomlanadi?
+A. O'tkazgichlar
+B. Shaxsiy
+C. Erkin joylashgan
+D. VIU (virtual ichki uskuna) belgilari
+To'g'ri javob: B
+
+14) LabVIEW da belgilarning ikkinchi turi qanday nomlanadi?
+A. Shaxsiy belgilar
+B. Erkin joylashgan belgilar
+C. O'tkazgichlar
+D. VIU (virtual ichki uskuna) belgilari
+To'g'ri javob: C
+
+15) LabVIEW da belgilarning uchinchi turi qanday nomlanadi?
+A. Shaxsiy
+B. O'tkazgichlar
+C. Erkin
+D. VIU (virtual ichki uskuna) belgilari
+To'g'ri javob: C
+
+16) LabVIEW da "Sarlavha" nima?
+A. komponentlarni nomlovchi matn bloki
+B. matn hisoblanib, u boshqaruvchi element yoki indikatorni izohlaydi
+C. virtual uskunaning interfaol foydalanadigan interfeysi
+D. grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi
+To'g'ri javob: B
+
+17) LabVIEW da "O'tkazuvchilar belgisi" nima?
+A. indikatorni izohlaydi
+B. diagrammalar blokini izohlash uchun juda qulay vositadir
+C. komponentlarni nomlovchi matn bloki
+D. uskunaning interfaol foydalanadigan interfeysi
+To'g'ri javob: B
+
+18) LabVIEW tuzilishlarda faqatgina o'tkazgich va tuzilish chegarasi kesishgan nuqtada .. yaratiladi. U nima?
+A. bog'lam
+B. tunnel
+C. hodisalar
+D. avtoindekslash
+To'g'ri javob: B
+
+19) LabVIEW da yaratilgan virtual uskunani qaysi manzilda (kompyuter xotirasi papkasida) saqlash maslahat berilmaydi?
+A. library.vi
+B. vi.lib
+C. Project.lib
+D. Lib.project
+To'g'ri javob: B
+
+20) LabVIEW da "Qadamba-qadam" bajarilish nima uchun kerak?
+A. Natijalarni ko'rish uchun
+B. Xatolarni topish uchun
+C. Virtual uskunani bajartirish uchun
+D. VIU (virtual ichki uskunani) chaqirish uchun
+To'g'ri javob: B
+
+21) LabVIEW da "To'xtatish nuqtasi" nima uchun kerak?
+A. Natijalarni ko'rish uchun
+B. Xatolarni topish uchun
+C. Virtual uskunani bajartirish uchun
+D. VIU (virtual ichki uskunani) chaqirish uchun
+To'g'ri javob: B
+
+22) LabVIEW da asosiy necha xildagi tsikllar mavjud?
+A. 3
+B. 2
+C. 4
+D. 5
+To'g'ri javob: B
+
+23) LabVIEW da tuzilishlar nima?
+A. diagrammalar blokini izohlash uchun juda qulay vositadir
+B. Oddiy dasturlash tillari operatorlariga o'xshab virtual uskuna bajarilishini boshqaradi
+C. matn hisoblanib, u boshqaruvchi element yoki indikatorni izohlaydi
+D. komponentlarni nomlovchi matn bloki
+To'g'ri javob: B
+
+24) LabVIEW da tsiklarning birinchi turi (iteratsiyalar sonini qayd etish) tuzilishi nomini to'g'ri belgilang?
+A. Case Structures
+B. For Loop
+C. While Loop
+D. Event Structures
+To'g'ri javob: B
+
+25) LabVIEW da tsiklarning ikkinchi turi (shart bo'yicha tsikl) tuzilishi nomini to'g'ri belgilang?
+A. Events For Loop
+B. While Loop
+C. Case Structures
+D. Event Structures
+To'g'ri javob: B
+
+26) LabVIEW da For Loop tsiklini takroran bajarilishi tsikl tarkibiga kirgan massivga bog'liqmi?
+A. For Loop tsikliga ishlatishga bog'liq
+B. Avtoindekslashga bog'liq
+C. While Loop tsikliga ishlatishga bog'liq
+D. Terminalga berilgan iteratsiyalar soni qiymatiga bog'liq
+To'g'ri javob: B
+
+27) LabVIEW da For Loop tsiklini muddatdan oldin to'xtatish mumkin?
+A. While Loop tsiklini qo'llashga bog'liq
+B. Maxsus terminal yordamida
+C. Terminalga berilgan iteratsiyalar soni qiymatiga bog'liq
+D. Avtoindekslashni qo'llashga bog'liq
+To'g'ri javob: B
+
+28) LabVIEW da While Loop tsikli standart holatda qaysi mantiqiy qiymatda takrorlash to'xtatiladi?
+A. True
+B. False
+C. And
+D. Or
+To'g'ri javob: B
+
+29) LabVIEW da While Loop tsiklini "yo'q" mantiqiy qiymatda takrorlash to'xtatilishini ta'minlash maqsadida yordamchi menyuning qaysi optsiyasidan foydalanish zarur?
+A. Stop if False
+B. Continue if True
+C. Stop if True
+D. if False
+To'g'ri javob: A
+
+30) LabVIEW da iteratsiyalar sonini qayd etish tsiklini muddatdan oldin shart bo'yicha to'xtatish imkoniyatini ta'minlash uchun yordamchi menyuning qaysi optsiyasidan foydalanish zarur?
+A. Continue if True
+B. conditional terminal
+C. Continue if False
+D. Stop if True
+To'g'ri javob: B
+
+31) "Shart bo'yicha tsikl doimo bir marotaba bo'lsa hamki bajariladi, iteratsiyalar sonini qayd etish tsikli esa bir marotaba ham bajarilmasligi mumkin" degan fikr to'grimi?
+A. While Loop va For Loop tsiklida
+B. Faqat while loop tsiklida
+C. Faqat 1-qism to'g'ri
+D. Faqat 2-qism to'g'ri
+To'g'ri javob: A
+
+32) LabVIEW da siljuvchan registrlarni tsikl tuzilishlarining yordamchi menyuning qaysi optsiyasi yordamida paydo qilish mumkin?
+A. Continue if True
+B. Add shift register terminali
+C. conditional terminal
+D. Stop if True
+To'g'ri javob: B
+
+33) Variant tuzilmasini ishlatganda standart qanday variantlar avtomatik mavjud bo'ladi?
+A. Sonli
+B. True va False
+C. 0,1
+D. 0-9
+To'g'ri javob: B
+
+34) Formula bog'lamiga qiymat kiritish uchun yordamchi menyuning qaysi optsiyasidan foydalanish kerak?
+A. Add Output
+B. Add Input
+C. Add Input Value
+D. Add Output Value
+To'g'ri javob: B
+
+35) Formula bog'lamida har bir formula ifodasi oxirida qaysi belgi bilan yakunlanishi zarur?
+A. :
+B. ;
+C. ,
+D. .
+To'g'ri javob: B
+
+36) Formula bog'lami tarkibida shart bo'yicha hisoblashlarni amalga oshirish imkoniyati mavjudmi?
+A. Maxsus terminal yordamida
+B. Maxsus ifoda yordamida
+C. Variant tuzilmasini ishlatish orqali
+D. Tsikllarni qo'llagan holatda ishlatilganda
+To'g'ri javob: B
+
+37) LabVIEW da massiv elementlari tartibi doim nechadan boshlanadi?
+A. 1
+B. 0
+C. Siz ko'rsatgan qiymatdan
+D. LabVIEW tomonidan o'zi belgilanadi
+To'g'ri javob: B
+
+38) LabVIEW da massivlarni yuzadagi panelda yaratish uchun qaysi paneldan foydalanish kerak?
+A. Modern >> Numberic
+B. Modern >> Array Matrix&Cluster
+C. Modern >> Boolean
+D. Modern >> String & Path
+To'g'ri javob: B
+
+39) Massiv tipini aniqlang?
+A. Sonli
+B. Matnli
+C. Boolean
+D. Aniqlanmagan
+To'g'ri javob: D
+
+40) LabVIEW da massiv shablonini yuzadagi panelda joylashtirilganda va uning tipi aniq bo'lmaganda diagramma blokida uning terminali qaysi rangda bo'ladi?
+A. Qizil
+B. Oq
+C. Qora
+D. Ko'k
+To'g'ri javob: C
+
+41) LabVIEW da massiv terminalini oddiy terminallardan nimasi bilan farqlash mumkin?
+A. Qora rangda bo'lishi
+B. Kvadrat qavslar mavjudligi
+C. O'tkazgich qalinligi
+D. O'tkazgich mayinligi
+To'g'ri javob: B
+
+42) LabVIEW da diagramma blokida massiv o'tkazgichlari oddiy o'tkazgichlaridan nimasi bilan farqlanadi?
+A. Qalinligi
+B. Mayinroqligi
+C. Rangi bo'lgani
+D. O'tkazgichdagi uchlarida tunnellar mavjudligi
+To'g'ri javob: A
+
+43) LabVIEW da avtoindekslash nima uchun zarur?
+A. Massiv elementlarini qayta raqamlash uchun
+B. Massiv elementlariga tsikl ichida avtomatik tartib raqami bo'yicha murojaatlash uchun
+C. Massiv elementlarini o'chirish uchun
+D. Massiv elementlarini birlashtirish uchun
+To'g'ri javob: B
+
+44) LabVIEW da tsiklda 100 marotaba takrorlashlar soni ko'rsatilgan va unda 37 elementdan iborat bir o'lchamli massiv avtoindekslash yoqilgan holatda ulangan. Tsikl necha marotaba takrorlanadi?
+A. 100
+B. 37
+C. 63
+D. 137
+To'g'ri javob: B
+
+45) LabVIEW da tsiklda 100 marotaba takrorlashlar soni ko'rsatilgan va unda 137 elementdan iborat bir o'lchamli massiv avtoindekslash yoqilgan holatda ulangan. Tsikl necha marotaba takrorlanadi?
+A. 137
+B. 100
+C. 237
+D. 200
+To'g'ri javob: B
+
+46) LabVIEW da tsiklda 100 marotaba takrorlashlar soni ko'rsatilgan va unda 37 va 45 elementlardan iborat bir o'lchamli massivlar avtoindekslash yoqilgan holatda ulangan. Tsikl necha marotaba takrorlanadi?
+A. 100
+B. 37
+C. 45
+D. 137
+To'g'ri javob: B
+
+47) LabVIEW da klasterning massivdan farqi nimada?
+A. Elementlar sonining ko'pligi
+B. Elementlar har xilligi
+C. Elementlar turining bir xilligi
+D. Elementlarni tartiblash 1 dan boshlanadi
+To'g'ri javob: B
+
+48) Otsillogrammada nurlarni aks etish ob'yekti necha yangilash rejimiga ega?
+A. 4
+B. 3
+C. 5
+D. 6
+To'g'ri javob: B
+
+49) Otsillogrammada nurlarni aks etish ob'yekti birinchi yangilash rejimi qanday nomlanadi?
+A. Vaqtli (scope chart mode)
+B. Panoramali
+C. Markerli vaqt (sweep chart mode)
+D. Xomaki rejim turi
+To'g'ri javob: B
+
+50) Otsillogrammada nurlarni aks etish ob'yekti ikkinchi yangilash rejimi qanday nomlanadi?
+A. Panoramali (strip chart mode)
+B. Vaqtli (scope chart mode)
+C. Markerli vaqt (sweep chart mode)
+D. Elementlarni tartiblash 1 dan boshlanadi
+To'g'ri javob: B
+
+51) Otsillogrammada nurlarni aks etish ob'yekti uchinchi yangilash rejimi qanday nomlanadi?
+A. Panoramali (strip chart mode)
+B. Vaqtli (scope chart mode)
+C. Markerli vaqt (sweep chart mode)
+D. Xomaki
+To'g'ri javob: C
+
+52) LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning necha xil rejimi mavjud?
+A. 5
+B. 4
+C. 6
+D. 7
+To'g'ri javob: B
+
+53) LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning birinchi rejimi qaysi rejim?
+A. Codes Display
+B. Normal Display
+C. Password Display
+D. HEX Code Display
+To'g'ri javob: B
+
+54) LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning ikkinchi rejimi qaysi rejim?
+A. Normal Display
+B. Codes Display
+C. Password Display
+D. HEX Code Display
+To'g'ri javob: B
+
+55) LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning uchinchi rejimi qaysi rejim?
+A. Normal Display
+B. Codes Display
+C. Password Display
+D. HEX Display
+To'g'ri javob: C
+
+56) LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning to'rtinchi rejimi qaysi rejim?
+A. Normal Display
+B. Codes Mode Display
+C. HEX Display
+D. Password Display
+To'g'ri javob: C
+
+57) Yuzadagi panelda matnli boshqarish elementi joylashtirilgan va unda "Dasturlash tillari bazasida texnik ilovalar" yozuvi kiritilgan. Bundan tashqari yuzadagi panelda sonli indikator ham joylashtirilgan. Diagrammalar blokida terminallar orasida String Length funktsiyasini qo'llash natijasida sonli indikatorda nima akslanadi?
+A. Dasturlash tillari
+B. 43
+C. Dasturlash tillari bazasida texnik ilovalar
+D. 100
+To'g'ri javob: B
+
+58) LabVIEW fayllardan ma'lumotlarni tezkor o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi?
+A. Write to Text File va Read from Text File
+B. Write to Measurement File va Read From Measurement File
+C. Write to Spreadsheet File va Read From Spreadsheet File
+D. Read from Binary File va Write to Binary
+To'g'ri javob: B
+
+59) LabVIEW fayllardan jadval ko'rinishidagi (formati) ma'lumotlarni o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi?
+A. Write to Measurement File va Read From Measurement File
+B. Write to Text File va Read from Text File
+C. Write to Spreadsheet File va Read From Spreadsheet File
+D. Read from Binary File va Write to Binary File
+To'g'ri javob: C
+
+60) LabVIEW fayllardan matnli ma'lumotlarni o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi?
+A. Read From Measurement File
+B. Write to Text File va Read from Text File
+C. Read From Spreadsheet File
+D. Write to Binary File
+To'g'ri javob: B
+
+61) LabVIEW fayllardan ikkilik sanoq tizimidagi ma'lumotlarni o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi?
+A. Read From Measurement File
+B. Read From Spreadsheet File
+C. Read from Binary File va Write to Binary File
+D. Read from Text File
+To'g'ri javob: C
+
+62) LabVIEW da necha xil o'zgaruvchilar va turlari mavjud?
+A. 2 xil: mahalliy va global
+B. 3 xil: mahalliy, global va tarmoqli
+C. 3 xil: mahalliy, global va shartli
+D. 1 xil: mahalliy
+To'g'ri javob: B
+
+63) Mahalliy o'zgaruvchilariga to'g'ri ta'rif berilgan variantni tanlang
+A. ixtiyoriy tipdagi qiymatlarga bir necha VU orasida bir vaqtning o'zida bir nechta VU baravar ishlaganda yoki VIU lar orasida signallarni uzatish imkoniyatingiz bo'lmaganda ularga murojaat etish imkonini beradi
+B. diagrammalar blokining turli nuqtalaridan o'tkazuvchi ma'lumotlarini ob'yekt terminaliga ulash imkoniyatingiz bo'lmagan holatda yuzadagi panel ob'yektiga murojaat etish imkonini beradi
+C. xuddi global o'zgaruvchilarga o'xshaydi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi
+D. Mahalliy tarmoqda ishlaydi
+To'g'ri javob: B
+
+64) Global o'zgaruvchilariga to'g'ri ta'rif berilgan variantni tanlang
+A. diagrammalar blokining turli nuqtalaridan o'tkazuvchi ma'lumotlarini ob'yekt terminaliga ulash imkoniyatingiz bo'lmagan holatda yuzadagi panel ob'yektiga murojaat etish imkonini beradi
+B. ixtiyoriy tipdagi qiymatlarga bir necha VU orasida bir vaqtning o'zida bir nechta VU baravar ishlaganda yoki VIU lar orasida signallarni uzatish imkoniyatingiz bo'lmaganda ularga murojaat etish imkonini beradi
+C. xuddi global o'zgaruvchilarga o'xshaydi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi
+D. Internet tarmog'ida ishlaydi
+To'g'ri javob: B
+
+65) Tarmoq o'zgaruvchilariga to'g'ri ta'rif berilgan variantni tanlang
+A. Internet tarmog'ida ishlaydi
+B. Mahalliy tarmoqda ishlaydi
+C. xuddi global o'zgaruvchilarga o'xshaydi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi
+D. Korporativ tarmoqda ishlaydi
+To'g'ri javob: C
+
+66) Bir o'zgaruvchi yordamida parallel tsikllarni nazorat etish uchun qanday o'zgaruvchilardan foydalanish mumkin?
+A. Global
+B. Mahalliy
+C. Tarmoq (umumiy)
+D. Tsikl o'zgaruvchisi
+To'g'ri javob: A
+
+67) Ixtiyoriy boshqarish elementi indikator va aksincha boshqarish elementi sifatida ishlashi uchun qanday o'zgaruvchilardan foydalanish mumkin?
+A. Global
+B. Mahalliy
+C. Tarmoq (umumiy)
+D. Tsikl o'zgaruvchisi
+To'g'ri javob: B
+
+68) O'QISH rejimidagi mahalliy o'zgaruvchi bu - .
+A. Indikator
+B. Boshqarish elementi
+C. Variant tuzilmasi
+D. Tsikl
+To'g'ri javob: A
+
+69) YOZISH rejimidagi mahalliy o'zgaruvchi bu - .
+A. Boshqarish elementi
+B. Indikator
+C. Variant tuzilmasi
+D. Formula bog'lami
+To'g'ri javob: A
+
+70) Xususiyatlar paneli nima uchun ishlatiladi?
+A. Yuzadagi panel ob'yektlarini (boshqarish elementi va indikatorlar) xususiyatlari (masalan rangi, yozuvi, joylashuvi, ko'rinish/ko'rinmasligi va hokazo) dasturiy-dinamik (dastur ishlayotganda) o'zgartirish uchun
+B. Yuzadagi panel ob'yektlarini (boshqarish elementi va indikatorlar) xususiyatlari (masalan rangi, yozuvi, joylashuvi, ko'rinish/ko'rinmasligi va hokazo) o'zgartirish uchun
+C. Diagramma blokidagi terminallarni xususiyatlari (masalan rangi, yozuvi, joylashuvi, ko'rinish/ko'rinmasligi va hokazo) o'zgartirish uchun
+D. Diagramma blokidagi terminallarni xususiyatlari (masalan rangi, yozuvi, joylashuvi, ko'rinish/ko'rinmasligi va hokazo) dasturiy (dastur ishlayotganda) o'zgartirish uchun
+To'g'ri javob: A
+
+71) Xususiyatlar bog'lamini qanday chiqarish kerak?
+A. Yordamchi menyudan Property Node
+B. Yordamchi menyudan Create >> Property Node
+C. Yordamchi menyudan Invoke node
+D. Yordamchi menyudan Create >> Node
+To'g'ri javob: B
+
+72) Hodisa tuzilmasini diagramma blokida qayerdan topish mumkin?
+A. Modern >> Structures bo'limidan Event Structure
+B. Programming >> Structures bo'limidan Event Structure
+C. Programming bo'limidan Event Structure
+D. Modern bo'limidan Event Structure
+To'g'ri javob: B
+
+73) "Sonli o'zgaruvchi qiymatini o'zgartirdingiz" bu qanday hodisa bo'ladi?
+A. Passiv hodisa
+B. Faol hodisa
+C. Yo'q bu harakat
+D. Yo'q bu vaziyat
+To'g'ri javob: B
+
+74) Hodisa tuzilmasini diagramma blokida joylashtirganingizda avtomatik qanday hodisaga moslangan bo'ladi?
+A. Hech qanday hodisaga moslanmagan
+B. Vaqt o'tishi hodisasiga
+C. Tugma bosilishi hodisasiga
+D. Dasturni ishga tushurish hodisasiga
+To'g'ri javob: A
+
+75) Vaqt o'tishi hodisasiga moslangan hodisa tuzilmasida vaqtga qanday qiymat avtomatik berilgan bo'ladi?
+A. 1000
+B. -1
+C. 1
+D. 0
+To'g'ri javob: A
+
+76) Vaqt o'tishi hodisasiga moslangan hodisa tuzilmasida "-1" qiymati belgilangan bo'lsa hodisa tuzilmasi qancha vaqt kutadi yoki qachon bajariladi?
+A. 0 millisekund kutadi
+B. Cheksiz kutadi
+C. Umuman kutmaydi
+D. 1000 millsekund kutadi
+To'g'ri javob: B
+
+77) Hodisa tuzilmasiga yangi hodisani qayd etish uchun nima qilish kerak?
+A. Yordamchi menyudan Edit Events Handled by this Case ni tanlash zarur
+B. Yordamchi menyudan Add Event Case ni tanlash zarur
+C. Yordamchi menyudan Duplicate Event Case ni tanlash zarur
+D. Yordamchi menyudan Delete Event Case ni tanlash zarur
+To'g'ri javob: B
+
+78) Hodisa tuzilmasiga joriy hodisani o'zgartirish uchun nima qilish kerak?
+A. Yordamchi menyudan Add Event Case ni tanlash zarur
+B. Yordamchi menyudan Edit Events Handled by this Case ni tanlash zarur
+C. Yordamchi menyudan Duplicate Event Case ni tanlash zarur
+D. Yordamchi menyudan Delete Event Case ni tanlash zarur
+To'g'ri javob: B
+
+79) Hodisa tuzilmasiga joriy hodisadan nusxa olish uchun nima qilish kerak?
+A. Yordamchi menyudan Add Event Case ni tanlash zarur
+B. Yordamchi menyudan Edit Events Handled by this Case ni tanlash zarur
+C. Yordamchi menyudan Duplicate Event Case ni tanlash zarur
+D. Yordamchi menyudan Delete Event Case ni tanlash zarur
+To'g'ri javob: C
+
+80) Hodisa tuzilmasiga joriy hodisani o'chirish uchun nima qilish kerak?
+A. Yordamchi menyudan Add Event Case ni tanlash zarur
+B. Yordamchi menyudan Edit Events Handled by this Case ni tanlash zarur
+C. Yordamchi menyudan Duplicate Event Case ni tanlash zarur
+D. Yordamchi menyudan Delete Event Case ni tanlash zarur
+To'g'ri javob: D
+
+81) Hodisa tuzilmasida qanday qo'shimcha terminallar mavjud va qaysilar?
+A. 1 ta: hodisa qidiruvi bog'lami (Event Find Node)
+B. 2 ta: ma'lumotlari bog'lami (Event Data Node) va hodisa filtrlari bog'lami (Event Filter Node)
+C. 1 ta: ma'lumotlari bog'lami (Event Data Node)
+D. 1 ta: hodisa filtrlari bog'lami (Event Filter Node)
+To'g'ri javob: B
+
+82) LabVIEW da necha turdagi hodisalar mavjud va qaysilar?
+A. 1 turdagi: Qidiruv hodisalar
+B. 2 turdagi: Xabar-hodisalar va filtr hodisalar
+C. 1 turdagi: Xabar-hodisalar
+D. 1 turdagi: Filtr hodisalar
+To'g'ri javob: B
+
+83) Filtr hodisalarni xabar hodisalardan qanday ajratib olish mumkin?
+A. Xabar-hodisalar oldida yashil rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida qizil yo'naltirgichlar bo'ladi
+B. Xabar-hodisalar oldida qizil rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida yashil yo'naltirgichlar bo'ladi
+C. Xabar-hodisalar oldida yashil rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida ko'k yo'naltirgichlar bo'ladi
+D. Xabar-hodisalar oldida ko'k rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida qizil yo'naltirgichlar bo'ladi
+To'g'ri javob: A
+
+84) LabVIEW da kodlarni olib tashlash tuzilmalari an'anaviy dasturlashdagi qaysi konstruktsiya bilan mos keladi?
+A. Shart operatori
+B. Izoh
+C. Tsikl operatori
+D. O'chirish operatori
+To'g'ri javob: B
+
+85) LabVIEW da kodlarni olib tashlash tuzilmalari turi nechta va qaysilar?
+A. 2 ta: Diagram Disable va Conditional Disable
+B. 2 ta: Diagram Disable va Case Disable
+C. 1 ta: Diagram Disable
+D. 1 ta: Conditional Disable
+To'g'ri javob: A
+
+86) LabVIEW da kodlarni olib tashlash tuzilmalari qayerda joylashgan?
+A. Tools >> Modern
+B. Programming >> Structures
+C. Programming
+D. Modern
+To'g'ri javob: B
+
+87) LabVIEW da kodlarni olib tashlash tuzilmalarida 2 ta variantni faollashtirish mumkinmi?
+A. Birorta variantni faollashtirmaslik mumkin
+B. Faqat birta tuzilmani faollashtirish mumkin
+C. 3 tani faollashtirish mumkin
+D. 2 tadan ko'p bo'lmaydi
+To'g'ri javob: B
+
+88) LabVIEW da kodlarni olib tashlash tuzilmalarida faol variantni qanday bilish mumkin?
+A. ? belgisi mavjudligi
+B. * belgisini mavjudligi
+C. + belgisi mavjudligi
+D. - belgisi mavjudligi
+To'g'ri javob: B
+
+89) Siz boshqa an'anaviy dasturlash tillarida yozilgan dasturlar yoki kodlarni LabVIEW da foydalanishingiz mumkinmi va necha usul orqali mumkin?
+A. 4 usul orqali
+B. 3 usul orqali
+C. 5 usul orqali
+D. 6 usul orqali
+To'g'ri javob: B
+
+90) LabVIEW da tezkor VIU larni yaratish uchun qaysi buyruqdan foydalanish kerak?
+A. Create Sub VI
+B. Edit - Create Sub VI
+C. Edit Sub VI
+D. Make Sub VI
+To'g'ri javob: B
+
+91) LabVIEW da tezkor VIU larni yaratish uchun birinchi navbatda qanday ishni bajarish zarur?
+A. Elementlari va indikatorlarni tanlash kerak
+B. Diagramma blokidan kerakli sxema qismini tanlash kerak
+C. Diagramma blokidan tsiklni tanlash kerak
+D. Diagramma blokidan variant tuzilmasini tanlash kerak
+To'g'ri javob: B
+
+92) LabVIEW da tezkor VIU larni yaratish uchun birinchi shart qanday?
+A. 36 ta dan kirish va chiqishga ega bo'lmasligi kerak
+B. 28 ta dan kirish va chiqishga ega bo'lmasligi kerak
+C. 34 ta dan kirish va chiqishga ega bo'lmasligi kerak
+D. 44 ta dan kirish va chiqishga ega bo'lmasligi kerak
+To'g'ri javob: B
+
+93) LabVIEW da tezkor VIU larni yaratish uchun ikkinchi shart qanday?
+A. For Loop tsikli ichida va tashqarisida elementlarni tanlamaslik kerak
+B. Tuzilma ichida va tashqarisida elementlarni tanlamaslik kerak
+C. Variant tuzilmasi ichida va tashqarisida elementlarni tanlamaslik kerak
+D. While Loop tsikli ichida va tashqarisida elementlarni tanlamaslik kerak
+To'g'ri javob: B
+
+94) Yuzadagi panel an'anaviy dasturiy ta'minotda qanday tushuncha bilan mos keladi?
+A. Dastur kodi
+B. Interfeys
+C. Terminallar
+D. Indikatorlar
+To'g'ri javob: B
+
+95) Yuzadagi panel asosan qanday elementlardan iborat bo'ladi?
+A. Faqat boshqarish elementlari
+B. boshqarish elementlari va indikatorlar
+C. Faqat indikatorlar
+D. Dastur kodi
+To'g'ri javob: B
+
+96) Virtual uskunalarda boshqarish elementi nima?
+A. Ma'lumotlar manbaasi
+B. Ma'lumotlarni qabul qiluvchilar
+C. Dastur kodi (source code)
+D. Plastik deformatsiyalash sinfi
+To'g'ri javob: A
+
+97) Virtual uskunalarda indikator elementi nima?
+A. Ma'lumotlar manbaasi
+B. Ma'lumotlarni qabul qiluvchilar
+C. Dastur kodi
+D. Deformatsiyalash sinfi
+To'g'ri javob: B
+
+98) Diagrammalar bloki oynasi (an'anaviy dasturiy ta'minotdagi kod bilan taqqoslaganda) o'zida nimani saqlaydi?
+A. Boshqarish elementlarini
+B. Grafik kodi
+C. Indikatorlarni
+D. Terminallarni
+To'g'ri javob: B
+
+99) LabVIEW da dasturni bajarilishini boshqarish tamoyili nima hisoblanadi?
+A. G kod
+B. Ma'lumotlar oqimi (dataflow)
+C. Boshqarish elementlari
+D. Indikatorlar
+To'g'ri javob: B
+
+100) Virtual uskuna nima?
+A. Ishlab chiquvchi xayolidagi mavjud uskuna
+B. LabVIEW dasturi bo'lib, fizik o'lchash asbobi yoki instrumentini tashqi ko'rinishi va funksiyasini modellashtiradi
+C. Tekis aylanuvchan uskuna
+D. Sonlarni qayta ishlovchi uskuna
+To'g'ri javob: B
+
+101) Virtual uskunaning asosiy to'rt komponentini toping?
+A. Yuzadagi panel, diagramma-bloki, ikonka, bog'lash paneli
+B. Yuzadagi panel, diagramma-bloki, elementlar palitrasi, funktsiyalar palitrasi
+C. Instrumentlar palitrasi, elementlar palitrasi, funktsiyalar palitrasi, ikonka
+D. Yuzadagi panel, diagramma-bloki, ikonka, Virtual ichki uskunalar
+To'g'ri javob: A
+
+102) Virtual uskunada yuzadagi panel nimani bildiradi?
+A. Virtual uskuna yuza qismida joylashgan panel
+B. Fizik uskuna paneli asosida modellashtirilgan virtual uskuna interfaol interfeysi
+C. Hozirgi paytda boshqa oynalardan yuqorida bo'lgan oyna
+D. Yuzadagi panel, diagramma-bloki, ikonka, VIU
+To'g'ri javob: B
+
+103) Virtual uskunadagi diagrammalar bloki nima?
+A. Virtual uskunani sxematik ko'rinishini
+B. Ma'lumotlarni o'tish vaqt diagrammasi
+C. Dasturning kodini saqlovchi virtual uskuna oynasi
+D. Virtual uskuna interfeyi
+To'g'ri javob: C
+
+104) LabVIEWdagi yuzadagi panel an'anaviy dasturlashdagi ... ga mos keladi.
+A. Qism dastur
+B. Foydalanuvchi interfeysi
+C. Dastur
+D. Dastur kodi
+To'g'ri javob: B
+
+105) LabVIEWdagi VU an'anaviy dasturlashdagi ... ga mos keladi.
+A. Qism dastur
+B. Dastur
+C. Foydalanuvchi interfeysi
+D. Dastur kodi
+To'g'ri javob: B
+
+106) LabVIEWdagi VIU an'anaviy dasturlashdagi ... ga mos keladi.
+A. Qism dastur kodi
+B. Dastur
+C. Interfeys
+D. Dastur kodi
+To'g'ri javob: A
+
+107) LabVIEWdagi diagramma bloki an'anaviy dasturlashdagi ... ga mos keladi.
+A. Qism VI
+B. Dasturning kodi
+C. Dastur
+D. Interfeysi
+To'g'ri javob: B
+
+108) LabVIEWdagi ma'lumotlar bog'lami an'anaviy dasturlashdagi ... ga mos keladi.
+A. Qism dastur
+B. Operatorlar, funktsiyalar va qism dasturlar
+C. Foydalanuvchi interfeysi
+D. Dastur kodi
+To'g'ri javob: B
+109) LabVIEWda to'g'ri hisoblangan jumlani ko'rsating:  
+A. Terminali ramkasi mayin chiziq bilan ajratilgan bo'ladi  
+B. Ma'lumotlar manbasi faqat bitta, qabul qiluvchi esa bir necha bo'lishi mumkin  
+C. Indikatorlar terminali chegarasi yo'g'on chiziq bilan belgilangan bo'ladi  
+D. Ma'lumotlar manbasi bir nechta bo'lishi mumkin  
+To‘g‘ri javob: B
+
+110) Bir vaqtning o'zida yuzadagi panel va diagrammalar-bloki oynasini ko'rish uchun ... tugmalar tanlanadi:  
+A. Ctrl+N  
+B. Ctrl+T  
+C. Ctrl+C  
+D. Ctrl+A  
+To‘g‘ri javob: B
+
+111) Bir vaqtning o'zida yuzadagi panel va diagrammalar-bloki oynasini ko'rish uchun ... bandini tanlash kerak:  
+A. Tools menyusidan Title Left and Right bandi  
+B. Window menyusidan Title Left and Right bandi  
+C. View menyudan Show Block Diagram bandi  
+D. Tools menyusidan Title Left and Right bandi  
+To‘g‘ri javob: B
+
+112) Quyidagilardan qaysi biri LabVIEWda belgini yashirish (ko'rinmaydigan) qilish imkonini beradi?  
+A. Kontekst menyudan Create >> Caption bandini tanlash  
+B. Kontekst menyudan Visible items >> Caption bandini tanlash  
+C. Kontekst menyudan Create >> Label bandini tanlash  
+D. Kontekst menyudan Visible >> Label bandini tanlash  
+To‘g‘ri javob: B
+
+113) Jumlani davom ettiring: Buzilgan o'tkazgichni o'chirish uchun uni belgilab olib, ...?  
+A. View menyusidan (Remove Broken Wires) buyruqi yoki tugmalari tanlanadi  
+B. Edit menyusidan (Remove Broken Wires) buyruqi yoki tugmalari tanlanadi  
+C. View menyusidan (Remove Broken Wires) buyruqi yoki tugmalari tanlanadi  
+D. Edit menyusidan (Remove Broken Wires) buyruqi yoki tugmalari tanlanadi  
+To‘g‘ri javob: B
+
+114) Noto'g'ri javobni ko'rsating: Agar o'tkazgichning buzilish sababi noma'lum bo'lsa, ... dan Xatoliklar ro'yxati (List Errors) bandi tanlanadi.  
+A. Yuzadagi panelda dasturni ishga tushirish tugmasida sichqonchaning o'ng tugmasi tanlanadi  
+B. Dasturni ishga tushirish tugmasida sichqonchaning chap tugmasi tanlanadi  
+C. Diagrammalar blokida dasturni ishga tushirish tugmasida sichqonchaning o'ng tugmasi tanlanadi  
+D. Buzilgan o'tkazgichda kontekst menyu oynasi chaqiriladi yoki sichqonchaning o'ng tugmasi orqali yordamchi menyu chaqiriladi  
+To‘g‘ri javob: B
+
+115) Elementlarni ulashdagi noto'g'ri javobni ko'rsating:  
+A. Sichqoncha tugmasini bosing va yo'naltiring  
+B. Sichqoncha tugmasini bosmasdan ulanish yo'nalishini faqat 1 marta o'zgartirish mumkin  
+C. Probel klavishi yordamida o'tkazgich yo'nalishini o'zgartirish mumkin  
+D. Yo'nalishini faqat 1 marta o'zgartirish mumkin  
+To‘g‘ri javob: B
+
+116) VU dagi xatolik joylashgan joyni aniqlashtirish uchun ... LabVIEW mavjud xatolikni chaqirgan oynani mos ekranga chiqaradi va ob'yektni belgilaydi.  
+A. Yuzadagi panelda dasturni ishga tushirish tugmasida sichqonchaning o'ng tugmasi tanlansa  
+B. Dasturni ishga tushirish tugmasida sichqonchaning chap tugmasi tanlansa  
+C. Sichqoncha tugmasini bosmasdan ulanish yo'nalishini faqat 1 marta o'zgartirish mumkin  
+D. Diagrammalar blokida dasturni ishga tushirish tugmasida sichqonchaning o'ng tugmasi tanlansa  
+To‘g‘ri javob: B
+
+117) ... - ma'lumotlar tizimining muhim turi bo'lib, oddiy dasturlash tillari operatorlariga o'xshab virtual uskunani bajarilishini boshqaradi.  
+A. Boshqarish elementi (control)  
+B. Tuzilish (struktura)  
+C. Yuzadagi panel (front panel)  
+D. Variant tuzilmasi (Case structure)  
+To‘g‘ri javob: B
+
+118) LabVIEWda faylni xotirada saqlash usullari nechta?  
+A. 6  
+B. 5  
+C. 7  
+D. 8  
+To‘g‘ri javob: B
+
+119) Quyidagilardan qaysi biri LabVIEWda faylni xotirada saqlash usuli emas?  
+A. File menyusidan Save buyrug'ini tanlash  
+B. File menyusidan Save Copy buyrug'ini tanlash  
+C. File menyusidan SaveAll buyrug'ini tanlash  
+D. File menyusidan Save As buyrug'ini tanlash  
+To‘g‘ri javob: B
+
+120) Quyidagilardan qaysi biri VUni oxirgi saqlangan nusxasiga qaytaradi?  
+A. File menyusidagi Revert Command tugmasi  
+B. Edit menyusidagi Revert tugmasi  
+C. Edit menyusidagi Save As Command tugmasi  
+D. File menyusidagi Save As Command tugmasi  
+To‘g‘ri javob: A
+
+121) Save for Previous Version tugmasi ... imkonini beradi.  
+A. Faylni LabVIEW ning qaysi katalogida (papkada) saqlashni tanlash  
+B. Faylni LabVIEW ning qaysi versiyasida saqlashni tanlash  
+C. Faylni qaysi LabVIEW dasturining qaysi versiyada saqlashni tanlash  
+D. Faylni LabVIEW ning qaysi kutubxonasida saqlashni tanlash  
+To‘g‘ri javob: B
+
+122) LabVIEWda faylni xotirada saqlash usullarining qaysi birida Open, Rename bandli dialog oynasi ochiladi?  
+A. File menyudagi Save saqlash buyrug'ida  
+B. File menyudagi Save As buyrug'ida  
+C. File menyudagi Save All saqlash buyrug'ida  
+D. File menyudagi Save Copy saqlash buyrug'ida  
+To‘g‘ri javob: B
+
+123) Dastur bajarilishini yoritish rejimini yoqish uchun asboblar panelidan ... asbobi tanlanadi.  
+A. Retain Wire Values  
+B. Highlight Execution Mode  
+C. Align Objects  
+D. Distribute Objects  
+To‘g‘ri javob: B
+
+124) Variant tuzilmasini ... dan yuklash mumkin.  
+A. Controls palitrasining Modern >> Structures podpalitrasi  
+B. Functions palitrasining Programming >> Structures ichki palitrasi  
+C. Controls palitrasining Modern >> String podpalitrasi  
+D. Functions palitrasining Programming >> String podpalitrasi  
+To‘g‘ri javob: B
+
+125) Agar Variant tuzilmasining selektorga sonli yoki qatorli ma'lumotlar ulangan bo'lsa, unda tuzilma ... variantlarga ega bo'ladi.  
+A. 2 ta  
+B. Cheksiz  
+C. 0,1  
+D. 3 ta  
+To‘g‘ri javob: B
+
+126) Add Case After va Add Case Before optsiyalari orqali nima bajariladi?  
+A. Tunnel mode qo'shiladi  
+B. Variant qo'shiladi  
+C. O'tkazgich qo'shiladi  
+D. Shart tuzilmasi qo'shiladi  
+To‘g‘ri javob: B
+
+127) Dialog oynalari ochiq bo'lganda LabVIEW ning boshqa oynasini faollashtirib bo'ladimi?  
+A. 2 ta oynani  
+B. Dialog oynasini yopish zarur  
+C. Vaqtincha  
+D. 1 ta oynani  
+To‘g‘ri javob: B
+
+128) Agar avtoindekslash o'chirilgan bo'lsa, unda ...?  
+A. Tsikl har bir iteratsiyada massivning keyingi indeksiga o'tadi  
+B. Massiv tarkibidagi elementlari bilan birgalikda to'liqligicha tsiklga kiritiladi  
+C. Tsikl har bir iteratsiyada massivning 1-indeksiga o'tadi  
+D. Massiv to'liqligicha tsiklga kiritilmaydi  
+To‘g‘ri javob: B
+
+129) Noto'g'ri jumlani toping: Klasterlar terminallarini birlashtirish ... mumkin.  
+A. Agar ularning tipi har xil bo'lsa  
+B. Mos elementlarning tipi o'rni bilan bir xil bo'lsa  
+C. Agar ularning tipi bir xil bo'lmasa  
+D. Bir xil sondagi elementlarga ega bo'lsa  
+To‘g‘ri javob: A
+
+130) Klasterda joylashtirilgan birinchi ob'yekt ... hisoblanadi.  
+A. 100 chi element  
+B. 0 chi element  
+C. Oxirgi element  
+D. (n-1) chi element  
+To‘g‘ri javob: B
+
+131) Kontekst menyudagi "Reorder Controls in Cluster" bandining vazifasi nima?  
+A. Klaster ichidagi elementlarni o'sish tartibida joylashtirish  
+B. Klaster ichidagi elementlarni tartiblash  
+C. Klaster ichidagi elementlarni kamayish tartibida joylashtirish  
+D. Klaster ichidagi elementlar tartibini (ketma-ketligini) o'zgartirish  
+To‘g‘ri javob: B
+
+132) LabVIEW da umumiy (tarmoq) o'zgaruvchilar nima?  
+A. Bir necha VU lar orasida, yoki VU lar baravar ishlaganda ixtiyoriy tipdagi qiymatlarga bir vaqtda murojaat etish imkonini beradi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi  
+B. Diagrammalar blokining turli nuqtalaridan yuzadagi panel ob'yektiga murojaat etish imkonini beradi  
+C. Bir necha VU lar orasida ixtiyoriy tipdagi qiymatlarga bir vaqtda murojaat etish imkonini beradi  
+D. Bir necha VU lar orasida turli mahalliy va tarmoq dasturlarida ishlamaydi  
+To‘g‘ri javob: A
+
+133) LabVIEW da mahalliy o'zgaruvchilar nima?  
+A. Bir necha VU lar orasida, yoki VU lar baravar ishlaganda ixtiyoriy tipdagi qiymatlarga bir vaqtda murojaat etish imkonini beradi  
+B. Diagrammalar blokining turli nuqtalaridan yuzadagi panel ob'yektiga murojaat etish imkonini beradi  
+C. Bir necha VU lar orasida, yoki VU lar baravar ishlaganda ixtiyoriy tipdagi qiymatlarga bir vaqtda murojaat etish imkonini beradi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi  
+D. Bir necha VU lar orasida, yoki VU lar baravar ishlaganda ixtiyoriy tipdagi qiymatlarga bir vaqtda murojaat etish imkonini beradi, lekin ular turli mahalliy va tarmoq dasturlarida ishlamaydi  
+To‘g‘ri javob: B
+
+134) LabVIEW da global o'zgaruvchilar nima?  
+A. Diagrammalar blokining turli nuqtalaridan yuzadagi panel ob'yektiga murojaat etish imkonini beradi  
+B. Bir necha VU lar orasida, yoki VU lar baravar ishlaganda ixtiyoriy tipdagi qiymatlarga bir vaqtda murojaat etish imkonini beradi  
+C. Bir necha VU lar orasida, yoki VU lar baravar ishlaganda ixtiyoriy tipdagi qiymatlarga bir vaqtda murojaat etish imkonini beradi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi  
+D. Bir necha VU lar orasida turli mahalliy va tarmoq dasturlarida ishlamaydi  
+To‘g‘ri javob: B
+
+135) LabVIEW da signallarning nechta turi mavjud?  
+A. 4  
+B. 3  
+C. 5  
+D. 6  
+To‘g‘ri javob: B
+
+136) To'g'ri jumlani aniqlang:  
+A. Mahalliy o'zgaruvchining terminali o'qish rejimida qalin ramkaga ega, yozish rejimida esa ingichkaroq  
+B. Mahalliy o'zgaruvchining terminali o'qish rejimida ingichka ramkaga ega, yozish rejimida esa qalinroq  
+C. Mahalliy o'zgaruvchining terminali o'qish rejimida oq rangda, yozish rejimida esa qora rangda bo'ladi  
+D. Mahalliy o'zgaruvchining terminali o'qish rejimida qora rangda, yozish rejimida esa oq rangda bo'ladi  
+To‘g‘ri javob: A
+
+137) LabVIEW da Diagram Disable va Conditional Disable tuzilmalaridan nima maqsadda foydalaniladi?  
+A. Mahalliy o'zgaruvchilardan foydalanish uchun  
+B. Grafik kodlar bo'lagini bajartirmoqchi bo'lmasak  
+C. Global o'zgaruvchilardan foydalanish uchun  
+D. Grafik kodlar bo'lagini bajartirmoqchi bo'lsak  
+To‘g‘ri javob: B
+
+138) Ob'ektga yo'naltirilgan dasturlashda sinf tushunchasi?  
+A. Xususiyatlar va metodlardan iborat  
+B. Xususiyatlar, metodlar va hodisalardan iborat  
+C. Xususiyatlar va hodisalardan iborat  
+D. Metodlar va hodisalardan iborat  
+To‘g‘ri javob: B
+
+139) Yozuv ob'ektining (TLabel) ekranga chiqariladigan matn rangi ob'ektga yo'naltirilgan dasturlash tilidagi ob'jektning qanday tushunchasiga mos keladi?  
+A. Hodisa  
+B. Xususiyat  
+C. Metod  
+D. VIU  
+To‘g‘ri javob: B
+
+140) Matn kiritish ob'ektida (TEdit) matnni o'zgarishi ob'ektga yo'naltirilgan dasturlash tilidagi ob'ektning qanday tushunchasiga mos keladi?  
+A. Xususiyat  
+B. Hodisa  
+C. Metod (Usul)  
+D. Initsializatsiya  
+To‘g‘ri javob: B
+
+141) BitBtn tugma ob'ekti Button tugma ob'ektidan barcha imkoniyatlarini o'zida mujassamlashtirgan! Ushbu fakt ob'ektga yo'naltirilgan dasturlash tilidagi ob'ektning qanday tushunchasiga mos keladi?  
+A. Polimorfizm  
+B. Vorislik  
+C. Inkapsulatsiya  
+D. Initsializatsiya  
+To‘g‘ri javob: B
+
+142) BitBtn tugma ob'ekti Button tugma ob'ektidan barcha imkoniyatlarini o'zida mujassamlashtirgan! Ushbu fakt ob'ektga yo'naltirilgan dasturlash tilidagi ob'ektning qanday tushunchasiga mos keladi?  
+A. Polimorfizm  
+B. Vorislik  
+C. Inkapsulatsiya  
+D. Initsializatsiya  
+To‘g‘ri javob: B
+
+143) BitBtn tugma ob'ekti Button tugma ob'ektidan tugma ustiga yozuvni chiqarishdan boshqa rasmni ham chiqaradi! Ushbu fakt ob'ektga yo'naltirilgan dasturlash tilidagi ob'ektning qanday tushunchasiga mos keladi?  
+A. Ob'yekt vorisligi  
+B. Polimorfizm  
+C. Inkapsulatsiya  
+D. Initsializatsiya  
+To‘g‘ri javob: B
+
+144) Delphi tizimida loyiha yaratilganda odatda natija sifatida qanday fayl hosil bo'ladi?  
+A. .pas  
+B. .exe  
+C. .dfm  
+D. .res  
+To‘g‘ri javob: B
+
+145) Delphi tizimida loyiha moduli yoki dasturchi kod yoziladigan fayl qanday kengaytmaga ega?  
+A. .exe  
+B. .pas  
+C. .dfm  
+D. .res  
+To‘g‘ri javob: B
+
+146) Delphi tizimida loyiha formasi yoki oynasi fayl sifatida qanday kengaytmaga ega?  
+A. .exe  
+B. .pas  
+C. .dfm  
+D. .res  
+To‘g‘ri javob: C
+
+147) .dpr kengaytmali fayl nima uchun kerak?  
+A. Delphi tizimida modulni (dastur bir bo'lagini) ochish uchun  
+B. Delphi tizimida loyihani ochish uchun  
+C. Delphi tizimida loyihani formasini ochish uchun  
+D. Delphi tizimida loyihani resurslarini ochish uchun  
+To‘g‘ri javob: B
+
+148) Form1.close; Ushbu kod qismi qaysi kengaytmali fayldan olingan?  
+A. .exe  
+B. .pas  
+C. .dfm  
+D. .res  
+To‘g‘ri javob: B
+
+149) Delphi tizimida Forma ob'ektining rangini o'zgartirmoqchi bo'lsangiz Delphi tizimining qanday oynasidan foydalaniladi?  
+A. Code Editor  
+B. Object Inspector  
+C. Form Designer  
+D. Project Manager  
+To‘g‘ri javob: B
+
+150) Delphi tizimida Forma ob'ektiga sichqoncha ko'rsatkichini etganda dastur kodini yozmoqchi bo'lsangiz Delphi tizimining qanday oynasidan foydalaniladi?  
+A. Form Designer  
+B. Code Editor  
+C. Object Inspector  
+D. Component Palette  
+To‘g‘ri javob: C
+
+151) Qaysi qatorda Delphi dasturlash tilida to'g'ri izoh yozilgan?  
+A. (* close *)  
+B. // close  
+C. D. # close  
+To‘g‘ri javob: B
+
+152) Qaysi qatorda Delphi dasturlash tilida to'g'ri izoh yozilgan?  
+A. // close  
+B. { close }  
+C. (* close *)  
+D. To‘g‘ri javob: B
+
+153) a:=4*3+5; "a" o'zgaruvchi tipini to'g'ri tanlang?  
+A. Double  
+B. Integer  
+C. String  
+D. Char  
+To‘g‘ri javob: B
+
+154) a:=4*3/5; "a" o'zgaruvchi tipini to'g'ri tanlang?  
+A. Integer  
+B. String  
+C. Double  
+D. Char  
+To‘g‘ri javob: C
+
+155) a:='Z'; "a" o'zgaruvchi tipini to'g'ri tanlang?  
+A. Integer  
+B. String  
+C. Char  
+D. Double  
+To‘g‘ri javob: C
+
+156) a:='Zayniddin'; "a" o'zgaruvchi tipini to'g'ri tanlang?  
+A. Char  
+B. String  
+C. Integer  
+D. Double  
+To‘g‘ri javob: B
+
+157) Agar o'zgaruvchi oldindan qanday tipli ma'lumotlarni qabul qilishini bilmasangiz qanday tipni tanlagan bo'lardingiz?  
+A. Integer  
+B. String  
+C. Variant  
+D. Char  
+To‘g‘ri javob: C
+
+158) Tsikl operatori dasturlashda keng qo'llaniladi! Agar tsikllar soni aniq bo'lsa (masalan 10 marta qaytib bajarish) unda qaysi tsikl operatordan foydalaniladi?  
+A. While  
+B. Repeat  
+C. For  
+D. Case  
+To‘g‘ri javob: C
+
+159) Tsikl operatori dasturlashda keng qo'llaniladi! Agar tsikllar soni aniq bo'lmasa va shart birinchi tekshirilib buyruqlar keyin bajarilsa unda qaysi tsikl operatordan foydalaniladi?  
+A. For  
+B. While  
+C. Repeat  
+D. Case  
+To‘g‘ri javob: B
+
+160) Tsikl operatori dasturlashda keng qo'llaniladi! Agar buyruqlar avval bajarilib va shart keyin tekshirilsa unda qaysi tsikl operatordan foydalaniladi?  
+A. For  
+B. While  
+C. Repeat  
+D. Case  
+To‘g‘ri javob: C
+
+161) Shart operatori dasturlashda keng qo'llaniladi! Agar bir son ikkinchi sondan kattaligini tekshirish uchun (masalan a>b) qanday operatordan foydalaniladi?  
+A. Case  
+B. IF  
+C. For  
+D. While  
+To‘g‘ri javob: B
+
+162) A:=Length('Ob'ektga yo'naltirilgan dasturlash'); A o'zgaruvchi qiymatini toping?  
+A. 34  
+B. 33  
+C. 35  
+D. 36  
+To‘g‘ri javob: A
+
+163) A:=copy('Ob'ektga yo'naltirilgan dasturlash',25,6); A o'zgaruvchi qiymatini toping?  
+A. yo'nal  
+B. Dastur  
+C. lash  
+D. tiril  
+To‘g‘ri javob: B
+
+164) s:='Ob'ektga yo'naltirilgan dasturlash'; Delete(s,31,4); "s" o'zgaruvchi qiymatini toping?  
+A. Ob'ektga yo'naltirilgan dastur  
+B. Ob'ektga yo'naltirilgan  
+C. Ob'ektga yo'naltirilgan dasturlash  
+D. dastur  
+To‘g‘ri javob: A
+
+165) a:=pos('dastur','Ob'ektga yo'naltirilgan dasturlash'); "a" o'zgaruvchi qiymatini toping?  
+A. 24  
+B. 25  
+C. 26  
+D. 27  
+To‘g‘ri javob: B
+
+166) Ushbu rasmda qanday oyna turi keltirilgan?  
+A. SDI forma  
+B. MDI forma  
+C. Dialog forma  
+D. Floating forma  
+To‘g‘ri javob: B
+
+167) A:array[4..17] of integer; Bu nechta o'lchamli massiv?  
+A. 1  
+B. 2  
+C. 3  
+D. 4  
+To‘g‘ri javob: A
+
+168) A:array[4..17,1..8] of integer; Bu nechta o'lchamli massiv?  
+A. 1  
+B. 2  
+C. 3  
+D. 4  
+To‘g‘ri javob: B
+
+169) TFileStream ob'ekti qanday maqsadda foydalaniladi?  
+A. Ma'lumotlarni tarmoqqa uzatish  
+B. Fayllar bilan ishlash  
+C. Grafik interfeysni boshqarish  
+D. Ma'lumotlar bazasi bilan ishlash  
+To‘g‘ri javob: B
+
+170) TFileStream ob'ekti bilan faylni o'qish va o'zgartirish rejimida ochish uchun qaysi rejimdan foydalaniladi?  
+A. fmOpenRead  
+B. fmOpenWrite  
+C. fmOpenReadWrite  
+D. fmCreate  
+To‘g‘ri javob: C
+
+171) TFileStream ob'ekti bilan faylni o'qish va yozish rejimida ochish uchun qaysi rejimdan foydalaniladi?  
+A. fmOpenRead  
+B. fmOpenWrite  
+C. fmOpenReadWrite  
+D. fmCreate  
+To‘g‘ri javob: C
+
+172) "26.12.2016,Понидельник" deb chiqarish uchun FormatDateTime funktsiyasiga qanday formatni ko'rsatish zarur?  
+A. 'dd.mm.yyyy,ddd'  
+B. 'dd.mm.yyyy,dddd'  
+C. 'd.m.yy,dddd'  
+D. 'dd.mm.yy,ddd'  
+To‘g‘ri javob: B
+
+173) "4:34:10 pm" deb chiqarish uchun FormatDateTime funktsiyasiga qanday formatni ko'rsatish zarur?  
+A. 'h:nn:ss'  
+B. 'hh:nn:ss am/pm'  
+C. 'h:nn:ss am/pm'  
+D. 'hh:nn:ss'  
+To‘g‘ri javob: C
+
+174) "434" matnni butun songa aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. IntToStr  
+B. StrToInt  
+C. StrToFloat  
+D. FloatToStr  
+To‘g‘ri javob: B
+
+175) 434 butun sonini matnga aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. StrToInt  
+B. IntToStr  
+C. StrToFloat  
+D. FloatToStr  
+To‘g‘ri javob: B
+
+176) '26.12.2016' sanani matnga aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. DateToStr  
+B. StrToDate  
+C. TimeToStr  
+D. StrToTime  
+To‘g‘ri javob: A
+
+177) '26.12.2016' matnni sanaga aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. DateToStr  
+B. StrToDate  
+C. TimeToStr  
+D. StrToTime  
+To‘g‘ri javob: B
+
+178) '16:46' vaqtni matnga aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. DateToStr  
+B. StrToDate  
+C. TimeToStr  
+D. StrToTime  
+To‘g‘ri javob: C
+
+179) '16:46' matnni vaqtga aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. DateToStr  
+B. StrToDate  
+C. TimeToStr  
+D. StrToTime  
+To‘g‘ri javob: D
+
+180) '3,14' matnni songa aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. StrToInt  
+B. IntToStr  
+C. StrToFloat  
+D. FloatToStr  
+To‘g‘ri javob: C
+
+181) 3,14 sonni songa aylantirmoqchiman! Qanday funktsiyadan foydalanish kerak?  
+A. StrToInt  
+B. IntToStr  
+C. StrToFloat  
+D. FloatToStr  
+To‘g‘ri javob: D
+
+182) a:=round(16/5); "a" o'zgaruvchi nechaga teng bo'ladi?  
+A. 3  
+B. 4  
+C. 5  
+D. 2  
+To‘g‘ri javob: A
+
+183) a:=round(3/4); "a" o'zgaruvchi nechaga teng bo'ladi?  
+A. 0  
+B. 1  
+C. 2  
+D. 3  
+To‘g‘ri javob: B
+
+184) Tizim Reestri bilan ishlash uchun qanday ob'ektdan foydalanish mumkin?  
+A. TRegistry  
+B. TRegIniFile  
+C. TIniFile  
+D. TFileStream  
+To‘g‘ri javob: B
+
+185) Tizim Reestri bilan ishlash uchun qanday moduldan foydalanish mumkin?  
+A. SysUtils  
+B. Registry  
+C. Classes  
+D. Windows  
+To‘g‘ri javob: B
+
+186) Nostandart komponentlar asosan qanday komponentlar guruhiga kiritilgan?  
+A. Standard va Dialogs  
+B. Additional va Win32  
+C. System va Data Access  
+D. Visual Component Library  
+To‘g‘ri javob: B
+
+187) Standart komponentlar asosan qanday komponentlar guruhiga kiritilgan?  
+A. Additional  
+B. Win32  
+C. Standard  
+D. Data Controls  
+To‘g‘ri javob: C
+
+188) Telefon raqamni kiritish maydonini tashkil etish uchun quyidagi qanday komponentdan foydalanish mumkin?  
+A. TEdit  
+B. TMaskEdit  
+C. TLabel  
+D. TComboBox  
+To‘g‘ri javob: B
+
+189) Pochta indeksi raqamni kiritish maydonini tashkil etish uchun quyidagi qanday komponentdan foydalanish mumkin?  
+A. TEdit  
+B. TMaskEdit  
+C. TLabel  
+D. TComboBox  
+To‘g‘ri javob: B
+
+190) Rasmda ko'rsatilgan interfeysni tashkil etish uchun qanday komponentdan foydalanish mumkin?  
+A. TListBox  
+B. TCheckListBox  
+C. TComboBox  
+D. TTreeView  
+To‘g‘ri javob: B
+
+191) Taqvimdagi sanani tanlashni osonlashtirish uchun qanday komponentdan foydalanish mumkin?  
+A. TMonthCalendar  
+B. TDateTimePicker  
+C. TCalendar  
+D. TEdit  
+To‘g‘ri javob: B
+
+192) Ranglarni tanlashni tashkil etish uchun qanday komponentdan foydalanish mumkin?  
+A. TColorBox  
+B. TComboBox  
+C. TListBox  
+D. TEdit  
+To‘g‘ri javob: A
+
+193) Daraxt ko'rinishida ma'lumotlarni shakllantirish uchun qanday komponentdan foydalanish mumkin?  
+A. TListBox  
+B. TTreeView  
+C. TComboBox  
+D. TCheckListBox  
+To‘g‘ri javob: B
+
+194) Dasturimizni tizim burchagiga paydo qilishimiz uchun qanday komponentdan foydalanish mumkin?  
+A. TSystemTray  
+B. TNotifyIcon  
+C. TTrayIcon  
+D. TTaskbarIcon  
+To‘g‘ri javob: C
+
+195) onActivate, onClick, onClose, onCreate, onKeyPress va hokazo so'zlar ob'ektga yo'naltirilgan dasturlash tilining qaysi tushunchasiga mos keladi?  
+A. Xususiyat  
+B. Metod  
+C. Hodisa  
+D. Vorislik  
+To‘g‘ri javob: C
