@@ -1,0 +1,1401 @@
+Subject:amaliy-dasturlar
+
+№1 Quyidagilar ichidan eng katta axborot o’lchov birligini ko’rsating.
+A) Kilobayt
+B) Megabayt
+C) Gigabayt
+D) Terabayt
+javob: C
+
+№2 Printer bu
+A) Kiritish qurilmasi
+B) Chiqarish qurilmasi
+C) Saqlash qurilmasi
+D) Qayta ishlash qurilmasi
+javob: B
+
+№3 Vinchester bu---
+A) Axborotni vaqtinchalik saqlovchi qurilma
+B) Qattiq magnitli disklarda axborot saqlovchi qurilma
+C) Optik disklarda axborot saqlovchi qurilma
+D) Axborotni tashuvchi qurilma
+javob: B
+
+№4 Atrof qurilmalariga qaysi qurilmalar kiradi.
+A) Protsessor, tezkor xotira
+B) Monitor, klaviatura
+C) Skaner, printer
+D) Ona plata, qattiq disk
+javob: C
+
+№5 Skaner yordamida qanday axborotlarni kiritish mumkin?
+A) Faqat matn
+B) Faqat rasm
+C) Matn, rasm, slayd, grafik, chizma ko’rinishida ifodalangan tasvirlarni
+D) Faqat audio ma'lumotlar
+javob: C
+
+№6 Fayl nima?
+A) Faqat dasturlar to'plami
+B) Faqat hujjatlar to'plami
+C) Dasturlar, hujjatlar, ma’lumotlar ketma-ketligining xotirada biror nom bilan saqlanishi
+D) Kompyuterda ma'lumotlarni qayta ishlash jarayoni
+javob: C
+
+№7 WINDOWS so’zining ma’nosini ayting
+A) Eshiklar
+B) Oynalar, lavxalar
+C) Kitoblar
+D) Fayllar
+javob: B
+
+№8 Microsoft Excel – bu:
+A) Matn protsessori
+B) Taqdimot dasturi
+C) Elektron jadvallar bilan ishlash dasturi
+D) Ma'lumotlar bazasini boshqarish tizimi
+javob: C
+
+№9 Microsoft Excel dasturi yordamida yaratiladigan hujjatlar qanday ataladi?
+A) Ish kitobi
+B) Hujjat
+C) Taqdimot
+D) Ma'lumotlar bazasi
+javob: A
+
+№10 EXCEL dasturidagi asosiy menyu nimaga xizmat qiladi?
+A) Fayllarni ochish va yopish uchun
+B) Ma'lumotlarni kiritish uchun
+C) EXCEL dasturining ko’pgina buyruqlarini bajarish uchun
+D) Yangi varaq yaratish uchun
+javob: C
+
+№11 EXCEL dasturining ish maydonida ustunlar qanday belgilangan?
+A) Raqamlar bilan
+B) Harflar bilan
+C) Arab raqamlari bilan
+D) Rim raqamlari bilan
+javob: B
+
+№12 Elektron jadvalga yangi varaq Excel 2010 da qanday qo’shiladi?
+A) «Vstavka» menyusida
+B) «Glavnaya» menyusida
+C) «Dannыe» menyusida
+D) «Razmetka stranitsы» menyusida
+javob: B
+
+№13 Kompyuter – bu ...
+A) Faqat ma'lumotlarni saqlash qurilmasi
+B) Faqat hisoblash qurilmasi
+C) Axborotlar bilan ishlovchi ko’p funksional elektron qurilma
+D) Matn kiritish qurilmasi
+javob: C
+
+№14 Kompyuterning asosiy qurilmalarining to’liq ro’yxatini ko’rsating
+A) Skaner, printer, modem
+B) Monitor, klaviatura, sistema blok
+C) Sichqoncha, mikrofon, kamera
+D) Xotira, protsessor, qattiq disk
+javob: B
+
+№15 EXM ning I-avlodga kiritilgan asosiy element…
+A) Tranzistor
+B) Mikroprotsessor
+C) Elektron lampa
+D) Integral sxema
+javob: C
+
+№16 Kompyuterning ishlash tezligi birinchi navbatda nimaga bog’liq?
+A) Monitor o'lchamiga
+B) Klaviatura turiga
+C) Protsessor chastotasiga
+D) Qattiq disk hajmi
+javob: C
+
+№17 Microsoft Excel dasturida yangi hujjat yaratilganda, odatda avtomatik ravishda dastur tomonidan unga qanday nom beriladi?
+A) Document1, Document2, ...
+B) Kniga1, Kniga2, ...
+C) Presentation1, Presentation2, ...
+D) Database1, Database2, ...
+javob: B
+
+№18 Elektron jadval yacheykalariga qanday turdagi ma’lumotlarni kiritish mumkin?
+A) Faqat matnli
+B) Faqat sonli
+C) Faqat formulali
+D) Matnli, Sonli va Formulali
+javob: D
+
+№19 Formulali yacheykalar qanday belgi bilan boshlanadi?
+A) «#» belgisidan
+B) «@» belgisidan
+C) «=» belgisidan va «+» belgisidan
+D) «$» belgisidan
+javob: C
+
+№20 EXCEL 2010 dasturi fayllarining kengaytmasi?
+A) .doc
+B) .ppt
+C) .xlsx
+D) .mdb
+javob: C
+
+№21 Yacheyka bu ... .
+A) Jadvaldagi qatorning bir qismi
+B) Jadvaldagi ustunning bir qismi
+C) Jadvaldagi manzili ko’rsatiladigan qator va ustun kesishgan joy
+D) Jadvaldagi butun sahifa
+javob: C
+
+№22 L7 deb nomlangan yacheyka manzilini izoh qiling.
+A) 7-ustun va L-qator kesishmasida joylashgan yacheyka
+B) L- ustun va 7-qator kesishmasida joylashgan yacheyka
+C) 7-ustundagi L-yacheyka
+D) L-qatoridagi 7-yacheyka
+javob: B
+
+№23 Excelda SRZNACH(A5:A50) funksiyasi nimani hisoblaydi?
+A) A5 dan A50 gacha bo’lgan yacheykalardagi sonli qiymatlarning yig'indisini hisoblaydi
+B) A5 dan A50 gacha bo’lgan yacheykalardagi sonli qiymatlarning o’rtacha qiymatini hisoblaydi
+C) A5 dan A50 gacha bo’lgan yacheykalardagi sonli qiymatlarning maksimalini hisoblaydi
+D) A5 dan A50 gacha bo’lgan yacheykalardagi sonli qiymatlarning minimalini hisoblaydi
+javob: B
+
+№24 Excel 2010 da qaysi bo'limda shrift tanlanadi?
+A) "Vstavka"-"Shrift"
+B) "Maket"-"Shrift"
+C) "Glavnaya"-"Shrift"
+D) "Formula"-"Shrift"
+javob: C
+
+№25 Excel dasturida darajaga ko’tarish amal belgisini ko’rsating?
+A) *
+B) /
+C) ^
+D) +
+javob: C
+
+№26 Microsoft Excel dasturida xujjatni saqlash qaysi menyu amallari orqali bajariladi
+A) Vstavka menyusidan Soxranit buyrug’i tanlanadi.
+B) Fayl menyusidan Soxranit buyrug’i tanlanadi.
+C) Dannыe menyusidan Soxranit buyrug’i tanlanadi.
+D) Glavnaya menyusidan Soxranit buyrug’i tanlanadi.
+javob: B
+
+№27 Excelda formulalar satrida nima ifodalanadi?
+A) Faqat matn
+B) Faqat sonlar
+C) Joriy yacheykadagi ma'lumotlar yoki formula
+D) Grafiklar
+javob: C
+
+№28 Excelda yacheyka manzili(adresi)dagi $ belgi nimani bildiradi?
+A) Nisbiy havola
+B) Absolyut havola
+C) Aralash havola
+D) Xatolik
+javob: B
+
+№29 Yacheyka ichida yozilgan =AD2015+BB140 ifoda nimani bildiradi?
+A) AD2015 va BB140 matnlarini qo'shish formulasi
+B) AD2015 va BB140 manzilli yacheykalarda joylashgan qiymatlar yigindisini formulasi
+C) AD2015 va BB140 yacheykalarini ko'paytirish formulasi
+D) AD2015 va BB140 yacheykalaridan eng kattasini topish formulasi
+javob: B
+
+№30 Noto'g'ri manzilli javobni toping.
+A) A1
+B) B5
+C) 2K
+D) Z100
+javob: C
+
+№31 Ustun kengligini qanday qilib, tez o’zgartirish mumkin?
+A) Ustun chap chegarasini cho’zish orqali
+B) Ustun o’ng chegarasini cho’zish orqali
+C) Ustunni ikki marta bosish orqali
+D) Format menyusidan
+javob: B
+
+№32 Qatorni balandligini qanday qilib, tez o’zgartirish mumkin?
+A) Qator nomeri tagidagi quyi chegarani cho’zish orqali
+B) Qator nomeri ustidagi yuqori chegarani cho’zish orqali
+C) Qatorni ikki marta bosish orqali
+D) Format menyusidan
+javob: A
+
+№33 Yacheykani absolyut manzili qanday belgilanadi?
+A) Yacheyka manzilidagi harf oldiga $ belgisi qo’yiladi
+B) Yacheyka manzilidagi son oldiga $ belgisi qo’yiladi
+C) Yacheyka manzilidagi harf va son oldiga $ belgisi qo’yiladi
+D) Yacheyka manzilidagi harf va son orasiga $ belgisi qo’yiladi
+javob: C
+
+№34 Excel dasturi xujjatni saqlash usuli.
+A) Ctrl + S
+B) Ctrl + O
+C) Ctrl + N
+D) Ctrl + P
+javob: A
+
+№35 Juda katta sonlar qanday formatda beriladi?
+A) Pul
+B) Foiz
+C) Umumiy
+D) Eksponentsial
+javob: D
+
+№36 Excelda xa formulasini aniqlang.
+A) pow(x,a)
+B) exp(a)
+C) xa
+D) log(x,a)
+javob: B
+
+№37 Yacheykalar diapazoni qanday belgilanadi?
+A) Blokning birinchi va oxirgi yacheykasi manzillari vergul bilan ajratib yoziladi
+B) Blokning birinchi va oxirgi yacheykasi manzillari nuqta bilan ajratib yoziladi
+C) Blokning birinchi va oxirgi yacheykasi manzillari ikki nuqta bilan ajratib yoziladi
+D) Blokning birinchi va oxirgi yacheykasi manzillari nuqta vergul bilan ajratib yoziladi
+javob: C
+
+№38 Excel dasturida formulani hisoblash uchun qanday belgidan foydalaniladi?
+A) «#» belgisi bilan boshlanuvchi ifodalarni
+B) «@» belgisi bilan boshlanuvchi ifodalarni
+C) «=» yoki «+» belgisi bilan boshlanuvchi ifodalarni
+D) «$» belgisi bilan boshlanuvchi ifodalarni
+javob: C
+
+№39 Ishchi varaqda diagramma chizish uchun nimadan foydalaniladi?
+A) Glavnaya menyusidagi “Diagrammi” guruhidan
+B) Vstavka menyusidagi “Diagrammi” guruhidan
+C) Dannыe menyusidagi “Diagrammi” guruhidan
+D) Razmetka stranitsы menyusidagi “Diagrammi” guruhidan
+javob: B
+
+№40 Parametrlarni kiritmasdan, qanday qilib, tez diagramma varag’ini tuzish mumkin?
+A) Diagrammada ko’rsatiladigan diapazon belgilanadi va [F1] klavishi bosiladi
+B) Diagrammada ko’rsatilgan diapazon belgilanadi va [F7] klavishi bosiladi
+C) Diagrammada ko’rsatiladigan diapazon belgilanadi va [F11] klavishi bosiladi
+D) Diagrammada ko’rsatiladigan diapazon belgilanadi va [F12] klavishi bosiladi
+javob: C
+
+№41 A ustunning birinchi 3 ta yacheykasida son bor, shu sonlarning o’rtachasini qaysi ifoda yordamida aniqlash mumkin?
+A) =SUMM(A1:A3)
+B) =MAX(A1:A3)
+C) =SRZNACH(A1:A3)
+D) =MIN(A1:A3)
+javob: C
+
+№42 Yacheykaga matn kiritish uchun avval qanday belgi yozish kerak?
+A) xech qanday belgi
+B) (`) apostrof belgisi
+C) (=) tenglik belgisi
+D) (+) qo'shish belgisi
+javob: B
+
+№43 Quyida ko’rsatilgan funktsiyalar kategoriyasini qaysi biri Excel da mavjud emas?
+A) Matematik
+B) Mantiqiy
+C) Fizik
+D) Statistik
+javob: C
+
+№44 Funktsiyani argumenti sifatida nimalarni ishlatish mumkin?
+A) Faqat yacheykalar diapazonini
+B) Faqat o'zgarmas sonni
+C) Faqat boshqa funktsiyani
+D) Yacheykalar diapazonini, O’zgarmas sonni, Boshqa funktsiyani
+javob: D
+
+№45 Yacheykaga qanday qiymatlarni yozish mumkin?
+A) Faqat sonli
+B) Faqat matnli
+C) Faqat formula
+D) Sonli, Matnli, Formula
+javob: D
+
+№46 Formulada yacheykani manzilini ko’rsatish nima deb ataladi?
+A) Qiymat
+B) Havola (ssilka)
+C) Argument
+D) Funksiya
+javob: B
+
+№47 Elektron jadvalning eng kichik elementi…
+A) Qator
+B) Ustun
+C) Yacheyka
+D) Varaq
+javob: C
+
+№48 SUMM() funktsiyasi nima maqsadda ishlatiladi?
+A) Ko’rsatilgan sonlarning o’rtachasini topish uchun
+B) Ko’rsatilgan sonlarning yig’indisini topish uchun
+C) Ko’rsatilgan sonlarning maksimalini topish uchun
+D) Ko’rsatilgan sonlarning minimalini topish uchun
+javob: B
+
+№49 A1 yacheykaga 12 soni, B1 yacheykaga 16 soni, C1 =(A1+B1)/2 natijasini belgilang.
+A) 12
+B) 16
+C) 14
+D) 28
+javob: C
+
+№50 Elektron jadvalda B2:E4 yacheykalar ajratilgan. Ajratilgan yacheykalar soni nechta?
+A) 6
+B) 9
+C) 12
+D) 15
+javob: C
+
+№51 A1, B1, C1, D1 yacheykalarga mos ravishda 16, 8, 3, 4 sonlari kiritilgan bo’lsa, E1 yacheykaga =(A1+B1)/C1 -D1 formula kiritilsa uning qiymatini toping.
+A) 6
+B) 8
+C) 4
+D) 12
+javob: C
+
+№52 Microsoft Excel dasturiy muhitida yangi ishchi varaq yaratish uchun qaysi tugmalarni birgalikda bosish kerak?
+A) Ctrl + N
+B) Shift + F11
+C) Ctrl + Shift + N
+D) Alt + F11
+javob: B
+
+№53 Microsoft Excel dasturiy muhitida yacheykani ichida keyingi satrga o’tish uchun qaysi tugma yoki tugmalar birgalikda bosiladi?
+A) Enter
+B) Alt + Enter
+C) Ctrl + Enter
+D) Shift + Enter
+javob: B
+
+№54 Microsoft Excel dasturiy muhitida yacheykadagi belgilar o’rnida “reshetka” ( ) paydo bo’lsa bu nimadan dalolat beradi?
+A) Yacheykada xatolik bor
+B) Tanlangan formatdagi sonlar ustun kengligiga sig’magan
+C) Yacheykada matn bor
+D) Yacheyka bo'sh
+javob: B
+
+№55 Yacheykadagi ma’lumotlarni tahrirlash uchun qaysi tugmani bosish kerak?
+A) F1
+B) F2
+C) F3
+D) F4
+javob: B
+
+№56 Elektron jadvalda sonning kvadrat ildizini aniqlang.
+A) POWER(son, 0.5)
+B) KOREN(son)
+C) KVADRAT(son)
+D) Ildiz(son)
+javob: B
+
+№57 Elektron jadvalda e (e ≈2,718282) ning songa mos darajasini aniqlang.
+A) LN(son)
+B) Exp(son)
+C) LOG(son)
+D) POWER(e, son)
+javob: B
+
+№58 Elektron jadvalda sinusi songa mos bo’lgan funksiyani aniqlang.
+A) COS(son)
+B) SIN(son)
+C) TAN(son)
+D) ARCSIN(son)
+javob: B
+
+№59 Kompyuter tarmoqlarini aniqlang.
+A) Bir kishilik, kichik, katta
+B) Lokal, mintaqaviy, global
+C) Simli, simsiz, optik
+D) Oddiy, o'rta, murakkab
+javob: B
+
+№60 Xalqaro o’rgimchak to’ri qaysi qisqartirishga mos keladi?
+A) URL
+B) WWW
+C) HTML
+D) HTTP
+javob: B
+
+№61 Web sahifaning biror qismiga yoki boshqa Web-sahifaga bog‘liqligini ko’rsatuvchi ilova … deb ataladi.
+A) Teg
+B) Gipermatn
+C) Protokol
+D) Domen
+javob: B
+
+№62 Web-brauzerni aniqlang: 1. MS Word 2. MS Internet Explorer 3. MS Paint 4. Excel
+A) 1
+B) 2
+C) 3
+D) 4
+javob: B
+
+№63 Brouzer so’zining ma’nosi?
+A) Yozishni ta'minlash
+B) Ko’rishni ta’minlash, ko’rsatish
+C) Hisoblashni ta'minlash
+D) Saqlashni ta'minlash
+javob: B
+
+№64 HTML tilining buyruqlari qanday ataladi?
+A) Funksiya
+B) Klass
+C) Teg
+D) Ob'ekt
+javob: C
+
+№65 E-mail nima?
+A) Elektron pochta
+B) Elektron kitob
+C) Elektron jurnal
+D) Elektron hujjat
+javob: A
+
+№66 Ma’lumotlar bazasini yaratish muhiti qaysi javoblarning birida to‘g‘ri keltirilgan.
+A) MS Word
+B) Access
+C) MS Excel
+D) MS Paint
+javob: B
+
+№67 Modem qaysi texnologiyaga kerakli texnik qurilma?
+A) Telekommunikatsiya texnologiyasi
+B) Grafik tahrirlash texnologiyasi
+C) Matn kiritish texnologiyasi
+D) Audio tinglash texnologiyasi
+javob: A
+
+№68 Hukumatga oid domen nomi bu..
+A) .com
+B) .gov
+C) .org
+D) .net
+javob: B
+
+№69 Ta’limga oid domen nomi bu..
+A) .com
+B) .net
+C) .edu
+D) .org
+javob: C
+
+№70 Elektron manzilni belgilovchi maxsus belgini ko‘rsating?
+A) #
+B) @
+C) $
+D) &
+javob: B
+
+№71 IP nima?
+A) Internet Provayder
+B) Internet Protocol-tarmoqlararo qaydnoma
+C) Internet Port
+D) Internet Paket
+javob: B
+
+№72 Sayt deganda nimani tushunasiz?
+A) Internetdagi bitta nomga ega bo‘lgan sahifani
+B) Kompyuter dasturi
+C) Internetdagi elektron pochta manzili
+D) Internetdagi fayl
+javob: A
+
+№73 HTML tili nima?
+A) Matn tahrirlash dasturi
+B) Web-sahifalar tuzishda ishlatiladigan gipermatnga asoslangan dasturlash tili
+C) Elektron jadval yaratish dasturi
+D) Grafika yaratish dasturi
+javob: B
+
+№74 HTML tilida teg nima?
+A) O'zgaruvchi
+B) < va > belgilari orasiga yoziladigan simvollar to‘plami
+C) Funktsiya
+D) Ma'lumotlar turi
+javob: B
+
+№75 Quyidagi dasturlardan qaysi biri yordamida Web sahifa tuzish mumkin?
+A) MS Word
+B) FrontPage Express
+C) MS Excel
+D) MS Paint
+javob: B
+
+№76 «Net» so’zining ma’nosi nima?
+A) Internet
+B) Tarmoq
+C) Dastur
+D) Kompyuter
+javob: B
+
+№77 HTML hujjatlarning kengaytmasi qanday?
+A) .doc
+B) .pdf
+C) .html yoki .htm
+D) .txt
+javob: C
+
+№78 HTML hujjatning qaysi joyida <title>, <link> va <meta> teglar e’lon qilinadi?
+A) <body> qismida
+B) <head> qismida
+C) <footer> qismida
+D) <header> qismida
+javob: B
+
+№79 Sarlavha qaysi teg ichida e’lon qlinishi kerak:
+A) <Body>...</Body>
+B) <Title>...</Title>
+C) <P>...</P>
+D) <H1>...</H1>
+javob: B
+
+№80 Elektron pochta orqali pochta xabarini jo’natish uchun albatta nimalar ko’rsatilishi lozim?
+A) Yuboruvchining ismi
+B) Qabul qiluvchining yoshi
+C) Pochta manzili
+D) Xabar hajmi
+javob: C
+
+№81 Ispring dasturi tarkibiy qismlarini ko’rsating
+A) Ispring Connect, Ispring Share
+B) Ispring Kinetics, Ispring Suite, Ispring Quizmaker, Ispring Pro.
+C) Ispring Edit, Ispring View
+D) Ispring Studio, Ispring Cloud
+javob: B
+
+№82 Ispring nima?
+A) Elektron kitob o'qish dasturi
+B) Elektron axborot ta’lim resurslarini yaratish vositasi.
+C) Grafik tahrirlash dasturi
+D) Video montaj dasturi
+javob: B
+
+№83 Ma’lumotlar bazasi nima?
+A) Faqat matnli ma'lumotlar to'plami
+B) Faqat sonli ma'lumotlar to'plami
+C) Bir-biri bilan bog’langan ma’lumotlar to’plami.
+D) Rasmlar to'plami
+javob: C
+
+№84 Quyidagilarning qaysi biri Ma’lumotlar bazasini yaratish bosqichiga kiradi?
+A) Ma'lumotlarni tartiblash
+B) Maqsad va vazifalarni aniqlab olish.
+C) Dastur kodini yozish
+D) Grafik interfeys yaratish
+javob: B
+
+№85 Quyidagilarning qaysi biri ma’lumotlar bazasini maydonlari turiga kirmaydi?
+A) Eksponentsial.
+B) Matnli
+C) Sonli
+D) Sana/Vaqt
+javob: A
+
+№86 Ma’lumotlar bazasini boshqarish tizimi nima?
+A) Kompyuterda matn tahrirlash dasturi
+B) Kompyuterda ma’lumotlar bazasi bilan ishlash dasturi.
+C) Kompyuterda o'yin dasturi
+D) Kompyuterda antivirus dasturi
+javob: B
+
+№87 Access ma’lumotlar bazasini boshqarish tizimida forma bo’limini imkoniyati?
+A) Faqat ma'lumotlarni ko'rish uchun
+B) Har bir yozuvni alohida oynada ko’rish va ma’lumot kiritish uchun.
+C) Faqat ma'lumotlarni o'chirish uchun
+D) Faqat ma'lumotlarni hisoblash uchun
+javob: B
+
+№88 y=ax3 +7 ifodani C++ da hisoblash uchun quyida keltirilgan operatorlarning to’g’risini tanlang?
+A) y = a x x x + 7
+B) y = a (pow( x,3)) + 7
+C) y = a x3 + 7
+D) y = a sqrt(x,3) + 7
+javob: B
+
+№89 C++ dasturlash tilida chiqarish operatori to'g'ri yozilgan qatorni aniqlang?
+A) print(x)
+B) cout<<x
+C) x<<cout
+D) display(x)
+javob: B
+
+№90 C++ dasturlash tilida kiritish operatori to'g'ri yozilgan qatorni aniqlang?
+A) input(x)
+B) read(x)
+C) cin>>x
+D) x>>cin
+javob: C
+
+№91 C++ dasturlash tilida satr ko'rinishidagi o'zgaruvchilar ustida amallar bajarilsa qaysi direktiva ishlatiladi?
+A) iostream
+B) cmath
+C) string.h
+D) cstdlib
+javob: C
+
+№92 C++ dasturlash tilida lg x funksiyasi qanday yoziladi?
+A) log(x)
+B) log10(x)
+C) ln(x)
+D) log2(x)
+javob: B
+
+№93 C++ da dasturni natijasini chiqarish usulini aniqlang?
+A) F5
+B) F9
+C) F10
+D) Ctrl + F5
+javob: C
+
+№94 C++ da dasturni kompillyatsiya qilish uchun qanday usul tanlanadi?
+A) F5
+B) F7
+C) F9
+D) F11
+javob: C
+
+№95 C++ da yangi oyna hosil qilish usulini tanlang?
+A) Edit-New
+B) File-New
+C) View-New
+D) Project-New
+javob: B
+
+№96 C++ dasturidan chiqish usulini tanlang?
+A) Exit
+B) Close
+C) Quit
+D) End
+javob: A
+
+№97 C++ da joriy dasturdan chiqish usulini tanlang?
+A) Close
+B) Exit
+C) Alt+F4
+D) Save and Exit
+javob: A
+
+№98 C++ da mavjud faylni ochish usulini tanlang?
+A) Ctrl+S
+B) Ctrl+N
+C) Ctrl+O
+D) Ctrl+P
+javob: C
+
+№99 C++ da shartli operator to'liq berilgan to’g’ri strukturasini ko’rsating?
+A) if (shart) <operator>;
+B) if (shart) <operator1>; else <operator2>;
+C) if shart then <operator1> else <operator2>;
+D) if (shart) then <operator>;
+javob: B
+
+№100 C++ tilida |x|+x ifodani to’g’ri yozilgan qatorni toping
+A) abs(x)+pow(x,0.5)
+B) abs(x)+sqrt(x)
+C) abs(x)+x^(1/2)
+D) modulus(x)+root(x)
+javob: B
+
+№101 C++ tilida massivlar to’g’ri e’lon qilingan javobni tanlang?
+A) int a[10];
+B) float a [10]
+C) char a[10]
+D) string a[10]
+javob: B
+
+№102 Ma’lumotlarni o’nlik ko’rinishda kiritish/chiqarish imkonini beruvchi manipulyatorni tanlang.?
+A) Dec
+B) Hex
+C) Oct
+D) Setprecision
+javob: A
+
+№103 Ma’lumotlarni sakkizlik ko’rinishda kiritish/ chiqarish imkonini beruvchi manipulyatorni tanlang
+A) Dec
+B) Hex
+C) Oct
+D) Scientific
+javob: C
+
+№104 Ikkilik sanoq tizimida 102*112 ni hisoblang.
+A) 110
+B) 101
+C) 100
+D) 111
+javob: A
+
+№105 C++ da faylga ma’lumotlarni kiritish buyrug'ini tanlang?
+A) ios::output
+B) ios::input
+C) ios::app
+D) ios::ate
+javob: B
+
+№106 C++ da fayldagi ma’lumotlarni chop etish uchun ochish rejimini tanlang?
+A) ios::input
+B) ios::output
+C) ios::app
+D) ios::trunc
+javob: B
+
+№107 Algoritmning tasvirlanish usularini tanlang?
+A) Matnli, grafikli, dasturli
+B) Faqat matnli
+C) Faqat grafikli
+D) Faqat dasturli
+javob: A
+
+№108 Algoritm xossasini tanlang?
+A) Uzliksizlik
+B) Cheksizlik
+C) Noaniqlik
+D) Bir xillik
+javob: A
+
+№109 Chiziqli algoritm deb nimaga aytiladi?
+A) Tarmoqlanish va takrorlanish bo’ladi
+B) Tarmoqlanish va takrorlanish bo’lmaydi
+C) Faqat tarmoqlanish bo'ladi
+D) Faqat takrorlanish bo'ladi
+javob: B
+
+№110 Ikkilik sanoq tizimida qanday belgilardan foydalaniladi?
+A) 0 dan 9 gacha
+B) 0 va 1
+C) A dan Z gacha
+D) Faqat raqamlar
+javob: B
+
+№111 Bir bayt necha bitga teng?
+A) 1
+B) 4
+C) 8
+D) 16
+javob: C
+
+№112 Excel dasturida A1=2, B1=3 bo'lsa C3=(B1+B1)/A1 yacheyka qiymati nechaga teng bo'ladi?
+A) 2
+B) 4
+C) 3
+D) 6
+javob: C
+
+№113 C++ dasturlash tilida teng emas amali uchun qaysi belgidan foydalaniladi?
+A) !=
+B) ==
+C) <>
+D) =!
+javob: A
+
+№114 C++ da A=9, B=4 bo’lsa, y = sqrt(a)+sqrt(b) bajarilsa ekranda qanday natija chiqaradi?
+A) 5
+B) 7
+C) 13
+D) 9
+javob: A
+
+№115 Ma’lumotlarning mantiqiy tipi tavsiflangan to’g’ri javobni aniqlang?
+A) Integer
+B) Boolean
+C) Float
+D) Char
+javob: B
+
+№116 Qaysi javobda ma’lumotlarni butun sonli tipi tavsiflangan?
+A) Float
+B) Integer
+C) Double
+D) Char
+javob: B
+
+№117 Qaysi javobda ma’lumotlarni haqiqiy sonli tipi tavsiflangan?
+A) Integer
+B) Char
+C) Float
+D) Boolean
+javob: C
+
+№118 Qaysi javobda ma’lumotlarni belgili tipi tavsiflangan?
+A) Integer
+B) Float
+C) Char
+D) Boolean
+javob: C
+
+№119 Qaysi javobda ma’lumotlarni satrli tipi tavsiflangan?
+A) Integer
+B) Char
+C) String
+D) Boolean
+javob: C
+
+№120 Algoritmda hech qanday shart tekshirilmasa, u qanday algoritm bo’ladi?
+A) Tarmoqlanuvchi
+B) Chiziqli
+C) Takrorlanuvchi
+D) Aralash
+javob: B
+
+№121 Algoritmda shart tekshirilsa, u qanday algoritm bo’ladi?
+A) Chiziqli
+B) Tarmoqlanuvchi
+C) Takrorlanuvchi
+D) Boshqa
+javob: B
+
+№122 Algoritmda ba’zi ko’rsatmalar takrorlansa, u qanday algoritm bo’ladi?
+A) Chiziqli
+B) Tarmoqlanuvchi
+C) Takrorlanuvchi
+D) Hech qaysi
+javob: C
+
+№123 1 dan10 gacha sonlar yig’indisini hisoblashda qaysi algoritmdan foydalanamiz?
+A) Chiziqli
+B) Tarmoqlanuvchi
+C) Takrorlanuvchi
+D) Hech qaysi
+javob: C
+
+№124 Sonning True yoki false ekanligii aniqlashda qaysi algoritmdan foydalanamiz?
+A) Chiziqli
+B) Tarmoqlanuvchi
+C) Takrorlanuvchi
+D) Har biridan
+javob: B
+
+№125 Sonning qiymatini bittaga ortirishda qaysi algoritmdan foydalanamiz?
+A) Chiziqli
+B) Tarmoqlanuvchi
+C) Takrorlanuvchi
+D) Hech qaysi
+javob: C
+
+№126 Algoritmni grafik shaklda ifodalashda ma’lumotlarni hisoblash qanday tasvirlanadi?
+A) Parallelogram
+B) To’rtburchak
+C) Romb
+D) Oval
+javob: B
+
+№127 Algoritmni grafik shaklda ifodalashda ma’lumotlari kiritish va chiqarish qanday tasvirlanadi?
+A) To'rtburchak
+B) Parallelogram
+C) Romb
+D) Oval
+javob: B
+
+№128 Algoritmni grafik shaklda ifodalashda shart tekshirish qanday tasvirlanadi?
+A) To'rtburchak
+B) Parallelogram
+C) Romb
+D) Oval
+javob: C
+
+№129 C++ da Sinx qiymatini hisoblovchi standart funksiyani to’g’ri ifodalanishini aniqlang
+A) SIN(x)
+B) Sin(x)
+C) SINUS(x)
+D) sin_x(x)
+javob: B
+
+№130 C++ da Cosx qiymatini hisoblovchi standart funksiyani to’g’ri ifodalanishini aniqlang
+A) Cos(x)
+B) COSS(x)
+C) COSİNUS(x)
+D) cos_x(x)
+javob: A
+
+№131 C++ da tgx qiymatini hisoblovchi standart funksiyani to’g’ri ifodalanishini aniqlang
+A) TG(x)
+B) Tan(x)
+C) TANGET(x)
+D) tg_x(x)
+javob: B
+
+№132 C++ da lnx qiymatini hisoblovchi standart funksiyani to’g’ri ifodalanishini aniqlang
+A) LN(x)
+B) Log(x)
+C) NaturalLog(x)
+D) LogE(x)
+javob: B
+
+№133 Qaysi javobda sonning absolyut qiymatini hisoblovchi standart funksiya keltirilgan ?
+A) Sqrt(x)
+B) Pow(x,n)
+C) Abs(x)
+D) Round(x)
+javob: C
+
+№134 Qaysi javobda sonning darajasini hisoblovchi standart funksiya keltirilgan ?
+A) Sqrt(x)
+B) Abs(x)
+C) pow(x,n)
+D) Round(x)
+javob: C
+
+№135 Qaysi javobda sonning kvadrat ildizini hisoblovchi standart funksiya keltirilgan ?
+A) Abs(x)
+B) Pow(x,n)
+C) Sqrt(x)
+D) Round(x)
+javob: C
+
+№136 C++ tilida sonning kub ildizini hisoblovchi standart funksiyani aniqlang ?
+A) Pow(x, 3)
+B) Sqrt(x, 3)
+C) Pow(x,1./3.)
+D) CubicRoot(x)
+javob: C
+
+№137 C++ tilida ex qiymatini hisoblovchi standart funksiyani aniqlang ?
+A) Log(x)
+B) exp(x)
+C) Ln(x)
+D) E_power_x(x)
+javob: B
+
+№138 Qaysi javobda sonning qiymatini bittaga kamaytiruvchi standart protsedura keltirilgan ?
+A) Inc(x)
+B) Dec(x)
+C) Add(x)
+D) Sub(x)
+javob: B
+
+№139 Qaysi javobda sonning qiymatini bittaga orttiruvchi standart protsedura keltirilgan ?
+A) Dec(x)
+B) Inc(x)
+C) Sub(x)
+D) Subtract(x)
+javob: B
+
+№140 Qaysi javobda ma’lumotlarni chiqarish operatori ko’rsatilgan ?
+A) Cin
+B) Cout
+C) Print
+D) Input
+javob: B
+
+№141 Qaysi javobda ma’lumotlarni kiritish operatori ko’rsatilgan ?
+A) Cout
+B) Cin
+C) Print
+D) Output
+javob: B
+
+№142 C++ dasturida tarmoqlanish operatorini aniqlang ?
+A) For
+B) While
+C) If…else
+D) Do…while
+javob: C
+
+№143 C++ dasturida parametrli takrorlanish operatorini aniqlang ?
+A) While
+B) Do…while
+C) For
+D) If
+javob: C
+
+№144 Matnli faylar kengaytmasi bu-
+A) .doc
+B) .pdf
+C) .txt
+D) .exe
+javob: C
+
+№145 Klaviatura bu-
+A) Chiqarish qurilmasi
+B) Saqlash qurilmasi
+C) Ma’lumotlarni kiritish qurilmasi
+D) Qayta ishlash qurilmasi
+javob: C
+
+№146 CD-R va CD-RW disk yurituvchilarining farqi nimada?
+A) CD-R disk yurituvchisi ma’lumotlarni yozishga, CD-RW esa faqat o'qishga mo'ljallangan
+B) CD-R disk yurituvchisi ma’lumotlarni o’qishga, CD-RW esa ma’lumotlarni o’qish va yozishga mo’ljallangan
+C) CD-R disk yurituvchisi faqat audio yozishga, CD-RW esa faqat video yozishga mo'ljallangan
+D) CD-R disk yurituvchisi tezroq, CD-RW esa sekinroq ishlaydi
+javob: B
+
+№147 Butun toifadagi o’zgaruvchilarni aniqlang?
+A) x=0.23
+B) x=5
+C) x="matn"
+D) x=true
+javob: B
+
+№148 Xaqiqiy toifadagi o’zgaruvchilarni aniqlang?
+A) x=5
+B) x=0.23
+C) x="matn"
+D) x=true
+javob: B
+
+№149 include <iostream> - vazifasini aniqlang?
+A) Matematik funktsiyalar amalga oshirilsa.
+B) Satrlar bilan ishlash uchun.
+C) Kiritish/chiqarish oqimini boshqarish.
+D) Fayllar bilan ishlash uchun.
+javob: C
+
+№150 include <math.h> - vazifasini aniqlang?
+A) Kiritish/chiqarish oqimini boshqarish.
+B) Satrlar bilan ishlash uchun.
+C) Matematik funktsiyalar amalga oshrilsa.
+D) Fayllar bilan ishlash uchun.
+javob: C
+
+№151 Quyidagi mantiqiy munosabat operatorining to’g’risini aniqlang?
+A) 100==50 “true”
+B) 100==50 “false”
+C) 100>50 “false”
+D) 100<50 “true”
+javob: B
+
+№152 Quyidagi teng emas munosabat operatorining to’g’risini aniqlang?.
+A) 100==50 “true”
+B) 100!=50 “true”
+C) 100!=50 “false”
+D) 100>50 “false”
+javob: B
+
+№153 For takrorlash operatorining to’g’risini aniqlang?
+A) For (i=1; i<10; i--)
+B) For (i=1; i<=10; i++)
+C) For (i=1, i<=10, i++)
+D) For i=1 to 10 step 1
+javob: B
+
+№154 O'lchami ko'rsatilgan massivni to'liq shaklini aniqlang?
+A) int k[5];
+B) int k[] = {2, 3, 7};
+C) int k[5] = { 2, 3, 7, 8, 6};
+D) int k = {2, 3, 7, 8, 6};
+javob: C
+
+№155 Bir o`lchamli massivni tasvirlanishini aniqlang?
+A) float a[5]={0};
+B) int a;
+C) char a[2][2];
+D) string a;
+javob: A
+
+№156 Ikki o`lchamli massivlarni tasvirlanishini aniqlang?
+A) int a[3], b[2];
+B) int a[3][3], b[2][2];
+C) float a[3], b[2];
+D) char a[3][3];
+javob: B
+
+№157 C++ da A=6, B=9 bo’lsa, y=(A+B)/2 bajarilsa ekranda qanday natija chiqaradi?
+A) 7
+B) 7.5
+C) 8
+D) 15
+javob: B
+
+№158 C++ da A=6, B=9 bo’lsa, y=(A*B)/2 bajarilsa ekranda qanday natija chiqaradi?
+A) 27
+B) 54
+C) 36
+D) 18
+javob: A
+
+№159 C++ da A=4, B=2 bo’lsa, y = (sqrt(a)+b)/2 bajarilsa ekranda qanday natija chiqaradi?
+A) 3
+B) 2
+C) 4
+D) 1
+javob: B
+
+№160 Y=Arcsinx +tgx ifodani C++ da yozilish tartibini aniqlang?
+A) y=sin(x)+tan(x)
+B) y=asin(x)+tan(x)
+C) y=arcsin(x)+tg(x)
+D) y=arc_sin(x)+tan_x(x)
+javob: B
+
+№161 Y=Arccosx funktsiyani C++ da yozilish tartibini aniqlang?
+A) Y=cos(x)
+B) Y=acos(x)
+C) Y=arccos(x)
+D) Y=arc_cos(x)
+javob: B
+
+№162 Y=aLgx standart funktsiyani C++ da yozilish tartibini aniqlang?
+A) aLog(x)
+B) aLog10(x)
+C) aLn(x)
+D) aLog_base_10(x)
+javob: B
+
+№163 Uzun butun son o’zgaruvchi tipini ko’rsating?
+A) short int
+B) Int
+C) long long int
+D) char
+javob: B
+
+№164 Qisqa butun son o’zgaruvchi tipini ko’rsating?
+A) Int
+B) short int
+C) long int
+D) float
+javob: B
+
+№165 C++ tili kim tomonidan yaratilgan ?
+A) Dennis Ritchie
+B) Bjarne Stroustrup
+C) James Gosling
+D) Guido van Rossum
+javob: B
+
+№166 C++ dasturi kodi fayllari kengaytmasini aniqlang?
+A) .exe
+B) .cpp
+C) .obj
+D) .lib
+javob: B
+
+№167 O’zgarmaslar (const) deb nimaga aytiladi?
+A) Hisoblash jarayonida qiymati o'zgaradigan kattaliklarga aytiladi.
+B) Hisoblash jarayonida qiymati o'zgarmaydigan kattaliklarga aytiladi.
+C) Faqat matnli ma'lumotlarga aytiladi.
+D) Faqat sonli ma'lumotlarga aytiladi.
+javob: B
+
+№168 Multimedia ma’lumotlari nimalardan iborat
+A) Faqat matn va son
+B) Faqat rasm va grafik
+C) Audio, video, matn, rasm, animatsiya
+D) Faqat hujjatlar va jadvallar
+javob: C
+
+№169 Kompyuter tarmoqlari deganda nima tushiniladi?
+A) Faqat bitta kompyuter
+B) Aloqa kanallari orqali yagona tizimga bog‘langan kompyuterlar
+C) Faqat printerlar to'plami
+D) Faqat skanerlar to'plami
+javob: B
+
+№170 Web sayt nima ?
+A) Faqat bitta web sahifa
+B) Kompyuter dasturi
+C) O’zaro bog‘langan web sahifalar to‘plami
+D) Elektron pochta manzili
+javob: C
+
+№171 Identifikator (nom) deb nimaga aytiladi?
+A) Dasturchi tomonidan dasturdagi o’zgarmasni belgilash uchun ixtiyoriy tanlangan nom
+B) Dasturchi tomonidan dasturdagi o’zgaruvchini belgilash uchun ixtiyoriy tanlangan nom
+C) Funktsiya nomi
+D) Kalit so'z
+javob: B
+
+№172 y=0.3210-2 C++ tilidi to’g’ri yozilishini aniqlang?
+A) y=0.32e-2
+B) y=0.3210^-2
+C) y=0.32 pow(10,-2)
+D) y=0.32E-2
+javob: A
+
+№173 Massiv bu-
+A) bir xil toifali cheksiz qiymatlarning tartiblanmagan to`plamidir
+B) bir xil toifali chekli qiymatlarning tartiblangan to`plamidir
+C) turli xil toifali chekli qiymatlarning tartiblangan to`plamidir
+D) bir xil toifali chekli qiymatlarning tartiblanmagan to`plamidir
+javob: B
+
+№174 C++ dasturida faylni o’qish uchun ochish usulini aniqlang?
+A) f = fopen(“bir.txt", “w")
+B) f = fopen(“bir.txt", “r")
+C) f = fopen(“bir.txt", “a")
+D) f = fopen(“bir.txt", “rb")
+javob: B
+
+№175 C++ dasturida faylni yozish uchun ochish usulini aniqlang?
+A) f = fopen(“bir.txt", “r")
+B) f = fopen(“bir.txt", “w")
+C) f = fopen(“bir.txt", “a")
+D) f = fopen(“bir.txt", “rb")
+javob: B
+
+№176 C++ dasturida Faylni yopish usulini aniqlang?
+A) open(f);
+B) close (f);
+C) read(f);
+D) write(f);
+javob: B
+
+№177 Ikkilik sanoq tizimida 1102+1012 qo’shilsa nechaga teng bo'ladi?
+A) 1010
+B) 1011
+C) 1101
+D) 1111
+javob: B
+
+№178 C++ dasturida takrorlash usulini aniqlang?
+A) if…else
+B) for
+C) do... while
+D) switch
+javob: C
+
+№179 Ushbu matematik x ifodani C++ dasturida yozilishini aniqlang?
+A) x^(1/2)
+B) sqrt(x)
+C) root(x)
+D) pow(x,0.5)
+javob: B
+
+№180 C++ tilida qiymat berish buyrug’ini aniqlang?
+A) a == sqrt(x)
+B) a = sqrt(x)
+C) a => sqrt(x)
+D) a <=> sqrt(x)
+javob: B
+
+№181 Ushbu matematik (m&x) ifodani C++ dasturida yozilishini aniqlang?
+A) pow(x,1./m)
+B) sqrt(x,m)
+C) msqrt(x)
+D) x^(1/m)
+javob: A
+
+№182 Ushbu matematik |x| ifodani C++ dasturida yozilishini aniqlang?
+A) x
+B) -x
+C) abs(x)
+D) mod(x)
+javob: C
+
+№183 Arccos2x ifodani C++ dasturida yozilishini aniqlang?
+A) acos(2x)
+B) cos(2x)
+C) arccos(2x)
+D) arc_cos(2x)
+javob: A
+
+№184 Arctgx^2 ifodani C++ dasturida yozilishini aniqlang?
+A) atan(xx)
+B) atan2(x,x)
+C) Pow(atan(x),2)
+D) arctan(xx)
+javob: C
+
+№185 Arctgx+3 ifodani C++ dasturida yozilishini aniqlang?
+A) Atan(x)+3
+B) Atan(x+3)
+C) Arctan(x)+3
+D) Arctan(x+3)
+javob: B
+
+№186 Hisoblash tarmoqlarning qanday turlarini bilasiz?
+A) Kichik, o'rta, katta
+B) lan, man, wan
+C) Simli, simsiz, optik
+D) Mahalliy, milliy, xalqaro
+javob: B
+
+№187 Dasturiy ta’minot tarkibiga nimalar kiradi?
+A) Faqat operatsion tizimlar
+B) Faqat amaliy dasturlar
+C) Tizimli va amaliy dasturiy ta’minot
+D) Faqat drayverlar
+javob: C
+
+№188 Skaner nima ?
+A) Tasvirlarni chiqaruvchi qurilma
+B) Tasvirlarni elektron shaklga o‘tkazuvchi qurilma
+C) Ovozni kirituvchi qurilma
+D) Videoni yozuvchi qurilma
+javob: B
+
+№189 Ikkilik sanoq tizimida 110012 soni o'nlik tizimida nechaga teng bo'ladi?
+A) 24
+B) 25
+C) 19
+D) 13
+javob: B
+
+№190 Sakkizlik sanoq tizimida 1+7 nechaga teng bo'ladi?
+A) 8
+B) 10
+C) 7
+D) 11
+javob: B
+
+№191 Funksional tugmalar to’g’ri keltirilgan qatorni toping?
+A) A, B, C, D
+B) 0, 1, 2, 3
+C) F1,…,F12
+D) Esc, Enter, Tab
+javob: C
+
+№192 Microsoft Excel dasturida sonning kvadrat ildizini hisoblovchi funksiya qanday nomlanadi?
+A) KOREN
+B) SQRT
+C) ILDIZ
+D) POWER
+javob: A
+
+№193 Microsoft Excel dasturida sonni faktorialini hisoblovchi funksiya qanday nomlanadi?
+A) SUMM
+B) FAKTR
+C) PROIZVED
+D) MAX
+javob: B
+
+№194 Microsoft Excel dasturida sonlarni ko'paytmasini hisoblovchi funksiya qanday nomlanadi?
+A) SUMM
+B) CHASTNOE
+C) PROIZVED
+D) MAX
+javob: C
+
+№195 Excel dasturida A1=5, B1=3 bo'lsa C3=A1^B1 yacheyka qiymati nechaga teng bo'ladi?
+A) 8
+B) 15
+C) 125
+D) 243
+javob: C
+
+№196 Ispring dasturining qaysi menyusidan 3D kitobga “Noviy Razvarot” qo’shish mumkin?
+A) Fayl
+B) Vstavka
+C) Kniga
+D) Format
+javob: C
+
+№197 Axborot ta’lim tarmog’i internetdagi sayt nomini ko’rsating
+A) google.com
+B) ziyonet.uz
+C) youtube.com
+D) uzbekistan.uz
+javob: B
+
+№198 Milliy axborot qidiruv tizimi internetdagi sayt nomini ko’rsating
+A) google.com
+B) yandex.ru
+C) www.uz
+D) mail.ru
+javob: C
+
+№199 Global tarmoqqa ulanish uchun qanday qurilma bo‘lishi kerak ?
+A) Printer
+B) Skaner
+C) Modem
+D) Klaviatura
+javob: C
+
+№200 Internet tarmog‘i nima ?
+A) Faqat bitta kompyuter
+B) Kompyuterlarning o‘zaro bog‘langan global tarmog‘i
+C) Faqat mahalliy tarmoq
+D) Telefon tarmog'i
+javob: B
