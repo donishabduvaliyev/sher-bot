@@ -164,7 +164,7 @@ def load_questions(file_path):
 
 # === Helper Function for Start Keyboard ===
 def get_start_keyboard(context: ContextTypes.DEFAULT_TYPE) -> InlineKeyboardMarkup | None:
-    known_subjects = ["amaliy-dasturlar"] # These should match keys from tests.txt
+    known_subjects = ["amaliy-dasturlar" , "dasturlash-tillari-bazasi"] # These should match keys from tests.txt
     keyboard = []
     loaded_subjects = context.bot_data.get('questions', {})
 
@@ -470,7 +470,7 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE) -> i
         qid = int(qid_str)
     except (ValueError, IndexError):
         logger.error(f"Invalid callback data in handle_answer: {query.data}")
-        try: await query.edit_message_text("Uzr, noto'g'ri tugma va javob formati.")
+        try: await query.edit_message_text("Uzr, no tugma va javob formati.")
         except BadRequest: pass
         return QUIZ_IN_PROGRESS
 
@@ -516,7 +516,7 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE) -> i
     is_correct = (selected_letter == correct_answer_letter)
 
     if is_correct:
-        feedback = "✅ To'g'ri!"
+        feedback = "✅ !"
         if not context.user_data.get(correctly_answered_key, False):
             context.user_data['score'] = context.user_data.get('score', 0) + 1
             context.user_data[correctly_answered_key] = True
@@ -524,7 +524,7 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE) -> i
         else:
             logger.info(f"User {user_id} re-answered Q {qid} correctly. Score not changed.")
     else:
-        feedback = f"❌ Xato! To'g'ri javob: {correct_option_text}"
+        feedback = f"❌ Xato!  javob: {correct_option_text}"
     
     updated_text = (
         f"{qid + 1}. {question_text}\n\n"
