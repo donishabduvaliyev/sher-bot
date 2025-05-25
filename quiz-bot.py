@@ -164,7 +164,7 @@ def load_questions(file_path):
 
 # === Helper Function for Start Keyboard ===
 def get_start_keyboard(context: ContextTypes.DEFAULT_TYPE) -> InlineKeyboardMarkup | None:
-    known_subjects = ["amaliy-dasturlar" , "dasturlash-tillari-bazasi"] # These should match keys from tests.txt
+    known_subjects = ["amaliy-dasturlar" , "dasturlash-tillari-bazasi" , "OT" ,"KTT"] # These should match keys from tests.txt
     keyboard = []
     loaded_subjects = context.bot_data.get('questions', {})
 
