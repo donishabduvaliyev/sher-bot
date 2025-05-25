@@ -64,9 +64,9 @@ logger = logging.getLogger(__name__)
 
 # === MONGODB CONFIGURATION ===
 # !!! REPLACE with YOUR details or use environment variables !!!
-MONGO_URI = os.environ.get("MONGO_URI", "mongodb+srv://admin:Kratos2004@cluster1.mkyyr.mongodb.net/gost-bot-users?retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DB_NAME", "gost-bot-users")
-PAID_USERS_COLLECTION_NAME = "gost-bot"
+MONGO_URI = os.environ.get("MONGO_URI", "mongodb+srv://admin:Kratos2004@cluster1.mkyyr.mongodb.net/Sher-gost-bot?retryWrites=true&w=majority")
+DB_NAME = os.environ.get("DB_NAME", "Sher-gost-bot") # Default DB name, can be overridden by env var
+PAID_USERS_COLLECTION_NAME = "sher-bot"
 YOUR_ADMIN_CHAT_ID = int(os.environ.get("ADMIN_CHAT_ID", 6202344101)) # !!! REPLACE 0 with YOUR Telegram admin chat_id !!!
 
 if YOUR_ADMIN_CHAT_ID == 0:
